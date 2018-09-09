@@ -1,0 +1,58 @@
+{
+ "ATB Molid": 15607,
+ "Formula": "CH4O",
+ "InChI": "InChI=1S/CH4O/c1-2/h2H,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -21.4,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -21.4,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": -21.34,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -24.21952677417072,
+   "error": 1.3479192160373776,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -6.23,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "hexane",
+     "value": -6.23,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -5.81069323644978,
+   "error": 0.6190441835251848,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Boulanger et al.",
+  "Gerber",
+  "Shivakumar et al.",
+  "Marenich et al.",
+  "alcohol",
+  "Mobley et al."
+ ]
+}

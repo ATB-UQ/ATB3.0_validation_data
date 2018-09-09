@@ -1,0 +1,29 @@
+HEADER    NONAME 23-Aug-11                                              NONE   1
+TITLE                                                                   NONE   2
+AUTHOR    Apache                                                        NONE   3
+REVDAT   1  23-Aug-11     0                                             NONE   4
+COMPND    UNNAMED
+HETATM    1   C1 UNK     0       1.867   1.451   0.012  1.00  0.00           C  
+HETATM    2   C2 UNK     0       0.696   0.539   0.383  1.00  0.00           C  
+HETATM    3   C3 UNK     0      -0.558   0.986  -0.371  1.00  0.00           C  
+HETATM    4   Cl UNK     0      -1.937  -0.090   0.067  1.00  0.00          Cl  
+HETATM    5  Cl1 UNK     0       1.094  -1.161  -0.066  1.00  0.00          Cl  
+HETATM    6   H1 UNK     0       1.627   2.479   0.284  1.00  0.00           H  
+HETATM    7   H2 UNK     0       2.760   1.133   0.549  1.00  0.00           H  
+HETATM    8   H3 UNK     0       2.048   1.392  -1.061  1.00  0.00           H  
+HETATM    9   H4 UNK     0       0.515   0.598   1.457  1.00  0.00           H  
+HETATM   10   H5 UNK     0      -0.798   2.014  -0.099  1.00  0.00           H  
+HETATM   11   H6 UNK     0      -0.377   0.927  -1.444  1.00  0.00           H  
+CONECT    1    2    6    7    8                                       
+CONECT    2    1    3    5    9                                       
+CONECT    3    2    4   10   11                                       
+CONECT    4    3                                                      
+CONECT    5    2                                                      
+CONECT    6    1                                                      
+CONECT    7    1                                                      
+CONECT    8    1                                                      
+CONECT    9    2                                                      
+CONECT   10    3                                                      
+CONECT   11    3                                                      
+MASTER        0    0    0    0    0    0    0    0   11    0   11    0
+END

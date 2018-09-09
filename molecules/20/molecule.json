@@ -1,0 +1,58 @@
+{
+ "ATB Molid": 20,
+ "Formula": "C3H6O2",
+ "InChI": "InChI=1S/C3H6O2/c1-2-3(4)5/h2H2,1H3,(H,4,5)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -27.03,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -27.03,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -27.09,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -24.930921064247887,
+   "error": 0.4901826450103056,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -12.47,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "hexane",
+     "value": -12.47,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -14.50955669135785,
+   "error": 1.3144425016327461,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Shivakumar et al.",
+  "Boulanger et al.",
+  "Dodda et al.",
+  "Marenich et al.",
+  "Mobley et al.",
+  "carboxylic acid",
+  "Gerber"
+ ]
+}

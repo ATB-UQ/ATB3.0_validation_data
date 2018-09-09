@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 30255,
+ "Formula": "C9H10O2",
+ "InChI": "InChI=1S/C9H10O2/c1-2-11-9(10)8-6-4-3-5-7-8/h3-7H,2H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -15.23,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -15.23,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -21.87681764726188,
+   "error": 1.192670454677812,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "ester",
+  "Boulanger et al.",
+  "Dodda et al."
+ ]
+}

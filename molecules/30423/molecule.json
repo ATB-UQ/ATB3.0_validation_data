@@ -1,0 +1,70 @@
+{
+ "ATB Molid": 30423,
+ "Formula": "C4H11N",
+ "InChI": "InChI=1S/C4H11N/c1-2-3-4-5/h2-5H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -17.74,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -17.74,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -17.95,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -17.95,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    },
+    {
+     "solvent_name": "water",
+     "value": -17.97,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -17.184785782384964,
+   "error": 0.9957627875509452,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -15.15,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "hexane",
+     "value": -15.15,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -15.50965106472154,
+   "error": 1.0913928956868428,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "amine I",
+  "Marenich et al.",
+  "Dodda et al.",
+  "Boulanger et al.",
+  "Shivakumar et al.",
+  "Mobley et al.",
+  "Gerber"
+ ]
+}

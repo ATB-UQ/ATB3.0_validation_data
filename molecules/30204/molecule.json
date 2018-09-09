@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 30204,
+ "Formula": "C6H14O",
+ "InChI": "InChI=1S/C6H14O/c1-3-5-6(7)4-2/h6-7H,3-5H2,1-2H3/t6-/m0/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -16.99,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -16.99,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -18.257535776406588,
+   "error": 1.435318760999162,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "alcohol",
+  "Mobley et al.",
+  "Dodda et al."
+ ]
+}

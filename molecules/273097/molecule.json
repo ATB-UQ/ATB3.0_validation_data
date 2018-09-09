@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 273097,
+ "Formula": "C5H11Cl",
+ "InChI": "InChI=1S/C5H11Cl/c1-4-5(2,3)6/h4H2,1-3H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 4.56,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 4.56,
+     "error": null,
+     "doi": "10.1021/acs.jpcb.7b00272"
+    }
+   ]
+  },
+  "TI": {
+   "value": -4.641793842721263,
+   "error": 1.1685623405702712,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "chloro",
+  "Dodda et al."
+ ]
+}

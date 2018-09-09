@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 30267,
+ "Formula": "C8H8O",
+ "InChI": "InChI=1S/C8H8O/c1-7-2-4-8(6-9)5-3-7/h2-6H,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -17.87,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -17.87,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -19.19836323106626,
+   "error": 0.8115777908443638,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "aldehyde",
+  "Mobley et al.",
+  "Boulanger et al.",
+  "Dodda et al."
+ ]
+}

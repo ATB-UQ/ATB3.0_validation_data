@@ -1,0 +1,37 @@
+HEADER    UNCLASSIFIED                            16-Feb-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE pol                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-02-05 15:47:32
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   H1 FLD4    0      -0.782   2.448  -0.005  1.00  0.00           H
+HETATM    2   C2 FLD4    0      -0.755   1.359  -0.003  1.00  0.00           C
+HETATM    3   C3 FLD4    0      -1.941   0.620   0.001  1.00  0.00           C
+HETATM    4   H2 FLD4    0      -2.896   1.140   0.002  1.00  0.00           H
+HETATM    5   C4 FLD4    0      -1.893  -0.775   0.004  1.00  0.00           C
+HETATM    6   H3 FLD4    0      -2.810  -1.357   0.005  1.00  0.00           H
+HETATM    7   C5 FLD4    0      -0.652  -1.419  -0.003  1.00  0.00           C
+HETATM    8   H4 FLD4    0      -0.611  -2.507  -0.003  1.00  0.00           H
+HETATM    9   C6 FLD4    0       0.551  -0.706  -0.003  1.00  0.00           C
+HETATM   10   C7 FLD4    0       1.893  -1.397   0.002  1.00  0.00           C
+HETATM   11   H8 FLD4    0       1.770  -2.485   0.015  1.00  0.00           H
+HETATM   12   H7 FLD4    0       2.485  -1.131  -0.882  1.00  0.00           H
+HETATM   13   H6 FLD4    0       2.488  -1.108   0.877  1.00  0.00           H
+HETATM   14   C1 FLD4    0       0.478   0.700  -0.002  1.00  0.00           C
+HETATM   15   O1 FLD4    0       1.668   1.381   0.000  1.00  0.00           O
+HETATM   16   H5 FLD4    0       1.491   2.337   0.028  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3   14
+CONECT    3    2    4    5
+CONECT    4    3
+CONECT    5    3    6    7
+CONECT    6    5
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   14
+CONECT   10    9   11   12   13
+CONECT   11   10
+CONECT   12   10
+CONECT   13   10
+CONECT   14    2    9   15
+CONECT   15   14   16
+CONECT   16   15
+END

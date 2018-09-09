@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 30243,
+ "Formula": "C8H10O",
+ "InChI": "InChI=1S/C8H10O/c1-6-3-4-7(2)8(9)5-6/h3-5,9H,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -24.73,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -24.73,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -20.35991094788479,
+   "error": 0.907341079054534,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Dodda et al.",
+  "phenol",
+  "Boulanger et al."
+ ]
+}

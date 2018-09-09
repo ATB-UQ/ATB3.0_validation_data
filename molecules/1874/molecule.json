@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 1874,
+ "Formula": "C13H18O2",
+ "InChI": "InChI=1S/C13H18O2/c1-9(2)8-11-4-6-12(7-5-11)10(3)13(14)15/h4-7,9-10H,8H2,1-3H3,(H,14,15)/t10-/m1/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -29.3,
+   "mean_uncertainty": 2.7,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -29.3,
+     "error": 2.7,
+     "doi": "10.1007/s10822-014-9747-x"
+    }
+   ]
+  },
+  "TI": {
+   "value": -29.431479384705543,
+   "error": 1.146475013101631,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "SAMPL2",
+  "carboxylic acid"
+ ]
+}

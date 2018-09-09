@@ -1,0 +1,31 @@
+{
+ "ATB Molid": 19070,
+ "Formula": "C9H6Cl6O3S",
+ "InChI": "InChI=1S/C9H6Cl6O3S/c10-5-6(11)8(13)4-2-18-19(16)17-1-3(4)7(5,12)9(8,14)15/h3-4H,1-2H2/t3-,4+,7-,8+,19-",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -17.57,
+   "mean_uncertainty": 4.18,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -17.57,
+     "error": 4.18,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -38.69076686648358,
+   "error": 1.1821046420104946,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Marenich et al.",
+  "chloro",
+  "cyclohexane",
+  "sulfonate"
+ ]
+}

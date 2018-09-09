@@ -1,0 +1,65 @@
+HEADER    UNCLASSIFIED                            09-May-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE LIG                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-04-26 13:45:36
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   CL _WQA    0       4.737  -0.773   0.450  1.00  0.00          Cl
+HETATM    2   C7 _WQA    0       3.281   0.102  -0.064  1.00  0.00           C
+HETATM    3   C6 _WQA    0       3.478   1.288  -0.769  1.00  0.00           C
+HETATM    4   H6 _WQA    0       4.483   1.641  -0.976  1.00  0.00           H
+HETATM    5   C5 _WQA    0       2.359   1.997  -1.205  1.00  0.00           C
+HETATM    6   H5 _WQA    0       2.489   2.916  -1.769  1.00  0.00           H
+HETATM    7   C4 _WQA    0       1.078   1.517  -0.949  1.00  0.00           C
+HETATM    8   H4 _WQA    0       0.215   2.048  -1.334  1.00  0.00           H
+HETATM    9   C3 _WQA    0       0.896   0.328  -0.225  1.00  0.00           C
+HETATM   10   N1 _WQA    0      -0.385  -0.214  -0.002  1.00  0.00           N
+HETATM   11   H7 _WQA    0      -0.497  -1.214  -0.153  1.00  0.00           H
+HETATM   12   C8 _WQA    0      -1.582   0.449   0.182  1.00  0.00           C
+HETATM   13  C13 _WQA    0      -2.824  -0.237  -0.003  1.00  0.00           C
+HETATM   14  C14 _WQA    0      -2.859  -1.658  -0.388  1.00  0.00           C
+HETATM   15   O2 _WQA    0      -4.103  -2.136  -0.607  1.00  0.00           O
+HETATM   16  H12 _WQA    0      -4.006  -3.081  -0.833  1.00  0.00           H
+HETATM   17   O1 _WQA    0      -1.879  -2.395  -0.509  1.00  0.00           O
+HETATM   18  C12 _WQA    0      -4.036   0.455   0.203  1.00  0.00           C
+HETATM   19  H11 _WQA    0      -4.966  -0.081   0.054  1.00  0.00           H
+HETATM   20  C11 _WQA    0      -4.057   1.785   0.591  1.00  0.00           C
+HETATM   21  H10 _WQA    0      -5.001   2.300   0.744  1.00  0.00           H
+HETATM   22  C10 _WQA    0      -2.838   2.446   0.802  1.00  0.00           C
+HETATM   23   H9 _WQA    0      -2.832   3.481   1.135  1.00  0.00           H
+HETATM   24   C9 _WQA    0      -1.629   1.797   0.606  1.00  0.00           C
+HETATM   25   H8 _WQA    0      -0.701   2.322   0.802  1.00  0.00           H
+HETATM   26   C2 _WQA    0       2.013  -0.409   0.247  1.00  0.00           C
+HETATM   27   C1 _WQA    0       1.808  -1.679   1.036  1.00  0.00           C
+HETATM   28   H3 _WQA    0       2.669  -1.901   1.669  1.00  0.00           H
+HETATM   29   H2 _WQA    0       1.657  -2.545   0.377  1.00  0.00           H
+HETATM   30   H1 _WQA    0       0.923  -1.596   1.674  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3   26
+CONECT    3    2    4    5
+CONECT    4    3
+CONECT    5    3    6    7
+CONECT    6    5
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   26
+CONECT   10    9   11   12
+CONECT   11   10
+CONECT   12   10   13   24
+CONECT   13   12   14   18
+CONECT   14   13   15   17
+CONECT   15   14   16
+CONECT   16   15
+CONECT   17   14
+CONECT   18   13   19   20
+CONECT   19   18
+CONECT   20   18   21   22
+CONECT   21   20
+CONECT   22   20   23   24
+CONECT   23   22
+CONECT   24   12   22   25
+CONECT   25   24
+CONECT   26    2    9   27
+CONECT   27   26   28   29   30
+CONECT   28   27
+CONECT   29   27
+CONECT   30   27
+END

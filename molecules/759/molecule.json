@@ -1,0 +1,68 @@
+{
+ "ATB Molid": 759,
+ "Formula": "C7H16",
+ "InChI": "InChI=1S/C7H16/c1-6(2)5-7(3)4/h6-7H,5H2,1-4H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 11.84,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 11.84,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": 12.04,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": 12.05,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": 12.05,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    }
+   ]
+  },
+  "TI": {
+   "value": 10.015142826184437,
+   "error": 1.2162957265776324,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -16.19,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -16.19,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -18.461396340737068,
+   "error": 0.6569670468704332,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Gerber",
+  "Shivakumar et al.",
+  "Mobley et al.",
+  "Marenich et al."
+ ]
+}

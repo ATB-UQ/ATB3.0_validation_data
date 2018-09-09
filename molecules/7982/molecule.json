@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 7982,
+ "Formula": "C12H10O",
+ "InChI": "InChI=1S/C12H10O/c1-3-7-11(8-4-1)13-12-9-5-2-6-10-12/h1-10H",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -12.0,
+   "mean_uncertainty": 2.9,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -12.0,
+     "error": 2.9,
+     "doi": "10.1007/s10822-014-9738-y"
+    }
+   ]
+  },
+  "TI": {
+   "value": -11.16844674579159,
+   "error": 1.4227243147837985,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "phenoxy",
+  "SAMPL4"
+ ]
+}

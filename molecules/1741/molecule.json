@@ -1,0 +1,31 @@
+{
+ "ATB Molid": 1741,
+ "Formula": "C15H16N4O5S",
+ "InChI": "InChI=1S/C15H17N4O5S/c1-9-8-10(2)17-14(16-9)18-15(21)19-25(22,23)12-7-5-4-6-11(12)13(20)24-3/h4-7H,8H2,1-3H3,(H2,18,19,21)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -84.94,
+   "mean_uncertainty": 4.18,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -84.94,
+     "error": 4.18,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -108.83576359564285,
+   "error": 1.0266910541760739,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "amide",
+  "ester",
+  "Marenich et al.",
+  "aromatic amine II",
+  "sulfonyl"
+ ]
+}

@@ -1,0 +1,33 @@
+HEADER    UNCLASSIFIED                            06-Feb-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE LIG                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-02-05 15:47:32
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   O1 RSDE    0      -1.988  -0.315  -0.548  1.00  0.00           O
+HETATM    2   C1 RSDE    0      -1.520   0.414   0.302  1.00  0.00           C
+HETATM    3   H1 RSDE    0      -2.123   1.011   1.002  1.00  0.00           H
+HETATM    4   O2 RSDE    0      -0.226   0.633   0.542  1.00  0.00           O
+HETATM    5   C4 RSDE    0       0.761  -0.073  -0.290  1.00  0.00           C
+HETATM    6   H8 RSDE    0       0.331  -0.165  -1.291  1.00  0.00           H
+HETATM    7   C3 RSDE    0       1.010  -1.456   0.303  1.00  0.00           C
+HETATM    8   H7 RSDE    0       1.387  -1.372   1.328  1.00  0.00           H
+HETATM    9   H6 RSDE    0       0.091  -2.049   0.310  1.00  0.00           H
+HETATM   10   H5 RSDE    0       1.757  -1.987  -0.298  1.00  0.00           H
+HETATM   11   C2 RSDE    0       1.996   0.815  -0.315  1.00  0.00           C
+HETATM   12   H4 RSDE    0       2.404   0.943   0.694  1.00  0.00           H
+HETATM   13   H3 RSDE    0       1.760   1.802  -0.724  1.00  0.00           H
+HETATM   14   H2 RSDE    0       2.767   0.356  -0.942  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2    5
+CONECT    5    4    6    7   11
+CONECT    6    5
+CONECT    7    5    8    9   10
+CONECT    8    7
+CONECT    9    7
+CONECT   10    7
+CONECT   11    5   12   13   14
+CONECT   12   11
+CONECT   13   11
+CONECT   14   11
+END

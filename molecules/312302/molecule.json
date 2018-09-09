@@ -1,0 +1,27 @@
+{
+ "ATB Molid": 312302,
+ "Formula": "C5H6",
+ "InChI": "InChI=1S/C5H6/c1-3-5-4-2/h1,4H,2,5H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -2.38,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -2.38,
+     "error": null,
+     "doi": "10.1021/acs.jctc.8b00172"
+    }
+   ]
+  },
+  "TI": {
+   "value": -0.6086146043929563,
+   "error": 1.4090991282066394,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al."
+ ]
+}

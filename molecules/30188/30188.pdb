@@ -1,0 +1,53 @@
+HEADER    UNCLASSIFIED                            16-Feb-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE LIG                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-02-05 15:47:32
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   O3 SQRI    0       4.110   0.806   0.455  1.00  0.00           O
+HETATM    2   N1 SQRI    0       3.444  -0.139   0.025  1.00  0.00           N
+HETATM    3   O2 SQRI    0       3.938  -1.198  -0.371  1.00  0.00           O
+HETATM    4   C6 SQRI    0       1.986   0.005  -0.017  1.00  0.00           C
+HETATM    5   C4 SQRI    0       1.408   1.173   0.484  1.00  0.00           C
+HETATM    6   H4 SQRI    0       2.036   1.955   0.894  1.00  0.00           H
+HETATM    7   C2 SQRI    0       0.025   1.305   0.432  1.00  0.00           C
+HETATM    8   H2 SQRI    0      -0.448   2.210   0.796  1.00  0.00           H
+HETATM    9   C5 SQRI    0      -0.771   0.274  -0.091  1.00  0.00           C
+HETATM   10   C7 SQRI    0      -2.255   0.526  -0.224  1.00  0.00           C
+HETATM   11   O1 SQRI    0      -2.620   1.595  -0.730  1.00  0.00           O
+HETATM   12   N2 SQRI    0      -3.126  -0.442   0.170  1.00  0.00           N
+HETATM   13   C9 SQRI    0      -2.798  -1.580   1.028  1.00  0.00           C
+HETATM   14  H10 SQRI    0      -1.758  -1.544   1.347  1.00  0.00           H
+HETATM   15   H9 SQRI    0      -3.433  -1.552   1.922  1.00  0.00           H
+HETATM   16   H8 SQRI    0      -2.981  -2.526   0.505  1.00  0.00           H
+HETATM   17   C8 SQRI    0      -4.552  -0.246  -0.075  1.00  0.00           C
+HETATM   18   H7 SQRI    0      -4.682   0.526  -0.831  1.00  0.00           H
+HETATM   19   H6 SQRI    0      -4.992  -1.186  -0.426  1.00  0.00           H
+HETATM   20   H5 SQRI    0      -5.068   0.058   0.845  1.00  0.00           H
+HETATM   21   C1 SQRI    0      -0.162  -0.884  -0.597  1.00  0.00           C
+HETATM   22   H1 SQRI    0      -0.767  -1.675  -1.029  1.00  0.00           H
+HETATM   23   C3 SQRI    0       1.223  -1.025  -0.566  1.00  0.00           C
+HETATM   24   H3 SQRI    0       1.707  -1.910  -0.960  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2    5   23
+CONECT    5    4    6    7
+CONECT    6    5
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   21
+CONECT   10    9   11   12
+CONECT   11   10
+CONECT   12   10   13   17
+CONECT   13   12   14   15   16
+CONECT   14   13
+CONECT   15   13
+CONECT   16   13
+CONECT   17   12   18   19   20
+CONECT   18   17
+CONECT   19   17
+CONECT   20   17
+CONECT   21    9   22   23
+CONECT   22   21
+CONECT   23    4   21   24
+CONECT   24   23
+END

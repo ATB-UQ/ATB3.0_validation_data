@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 30185,
+ "Formula": "C8H14O4",
+ "InChI": "InChI=1S/C8H14O4/c1-3-11-7(9)5-6-8(10)12-4-2/h3-6H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -23.89,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -23.89,
+     "error": 2.51,
+     "doi": "10.1139/v91-274"
+    }
+   ]
+  },
+  "TI": {
+   "value": -30.48513444626473,
+   "error": 1.337996231503091,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "ester",
+  "Mobley et al."
+ ]
+}

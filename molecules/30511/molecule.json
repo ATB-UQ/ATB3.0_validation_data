@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 30511,
+ "Formula": "C8H19N",
+ "InChI": "InChI=1S/C8H19N/c1-2-3-4-5-6-7-8-9/h2-9H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -15.27,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -15.27,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -14.406796834789866,
+   "error": 1.1150667186362293,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "amine I",
+  "Dodda et al.",
+  "Mobley et al."
+ ]
+}

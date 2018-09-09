@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 16282,
+ "Formula": "C2H5NO",
+ "InChI": "InChI=1S/C2H5NO/c1-3-2-4/h2H,1H3,(H,3,4)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -41.84,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -41.84,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    }
+   ]
+  },
+  "TI": {
+   "value": -37.25645469198846,
+   "error": 0.8785904460703408,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "amide",
+  "Boulanger et al.",
+  "Marenich et al.",
+  "Shivakumar et al."
+ ]
+}

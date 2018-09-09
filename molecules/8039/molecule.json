@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 8039,
+ "Formula": "C17H21NO",
+ "InChI": "InChI=1S/C17H21NO/c1-18(2)13-14-19-17(15-9-5-3-6-10-15)16-11-7-4-8-12-16/h3-12,17H,13-14H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -39.1,
+   "mean_uncertainty": 2.6,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -39.1,
+     "error": 2.6,
+     "doi": "10.1007/s10822-014-9738-y"
+    }
+   ]
+  },
+  "TI": {
+   "value": -38.91755628804436,
+   "error": 0.8534495291377475,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "amine III",
+  "SAMPL4",
+  "ether",
+  "Mobley et al."
+ ]
+}

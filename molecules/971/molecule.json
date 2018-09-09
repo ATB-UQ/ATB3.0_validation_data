@@ -1,0 +1,70 @@
+{
+ "ATB Molid": 971,
+ "Formula": "C2H7N",
+ "InChI": "InChI=1S/C2H7N/c1-3-2/h3H,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -17.95,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -17.95,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -17.95,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -17.93,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": -19.08,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    }
+   ]
+  },
+  "TI": {
+   "value": -15.306093302949495,
+   "error": 0.5554507356908609,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -9.12,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -9.12,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -13.610457077290054,
+   "error": 0.9713278650617982,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "Mobley et al.",
+  "amine II",
+  "Boulanger et al.",
+  "Gerber",
+  "Dodda et al.",
+  "Shivakumar et al."
+ ]
+}

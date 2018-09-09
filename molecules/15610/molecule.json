@@ -1,0 +1,68 @@
+{
+ "ATB Molid": 15610,
+ "Formula": "CH4",
+ "InChI": "InChI=1S/CH4/h1H4",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 8.37,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 8.37,
+     "error": 0.84,
+     "doi": "10.1039/P29900000291"
+    },
+    {
+     "solvent_name": "water",
+     "value": 8.37,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    },
+    {
+     "solvent_name": "water",
+     "value": 8.37,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": 8.587689812018578,
+   "error": 0.3920706800340602,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": 1.24,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": 0.6,
+     "error": null,
+     "doi": "10.1002/jcc.10052"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": 1.88,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -0.027242828672985775,
+   "error": 0.5292837421638839,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Marenich et al.",
+  "Mobley et al.",
+  "Shivakumar et al.",
+  "Gerber"
+ ]
+}

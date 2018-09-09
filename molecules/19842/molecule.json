@@ -1,0 +1,68 @@
+{
+ "ATB Molid": 19842,
+ "Formula": "C7H8O",
+ "InChI": "InChI=1S/C7H8O/c1-6-3-2-4-7(8)5-6/h2-5,8H,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -22.97,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -22.97,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -24.73945116247669,
+   "error": 0.9678839431063082,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -22.29,
+   "mean_uncertainty": 1.670493938929441,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -21.76,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -24.73,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "heptane",
+     "value": -20.96,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "octane",
+     "value": -21.71,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -22.57364478490993,
+   "error": 1.4765355991277958,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "phenol",
+  "Boulanger et al.",
+  "Shivakumar et al.",
+  "Mobley et al."
+ ]
+}

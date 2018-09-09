@@ -1,0 +1,38 @@
+{
+ "ATB Molid": 1856,
+ "Formula": "C8H10N4O2",
+ "InChI": "InChI=1S/C8H11N4O2/c1-10-4-9-6-5(10)7(13)12(3)8(14)11(6)2/h4-5H,1-3H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -52.89,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -52.89,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -52.89,
+     "error": 3.1,
+     "doi": "10.1007/s10822-010-9350-8"
+    }
+   ]
+  },
+  "TI": {
+   "value": -70.21195031194826,
+   "error": 1.1870936535011578,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "imidazole",
+  "Mobley et al.",
+  "amide",
+  "urea",
+  "SAMPL2"
+ ]
+}

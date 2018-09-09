@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 32374,
+ "Formula": "C5H10O5",
+ "InChI": "InChI=1S/C5H10O5/c6-2-1-10-5(9)4(8)3(2)7/h2-9H,1H2/t2-,3+,4-,5+/m1/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -85.86,
+   "mean_uncertainty": 1.13,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -85.86,
+     "error": 1.13,
+     "doi": "10.1007/s10822-010-9350-8"
+    }
+   ]
+  },
+  "TI": {
+   "value": -75.65368656607335,
+   "error": 0.9085273922436052,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "alcohol",
+  "hemiketal",
+  "ether",
+  "Mobley et al."
+ ]
+}

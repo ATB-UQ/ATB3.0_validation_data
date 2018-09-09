@@ -1,0 +1,37 @@
+{
+ "ATB Molid": 1183,
+ "Formula": "C7H7Cl",
+ "InChI": "InChI=1S/C7H7Cl/c1-6-4-2-3-5-7(6)8/h2-5H,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -4.81,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -4.81,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -4.77,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -2.6713660846167624,
+   "error": 1.0905449847293611,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "Marenich et al.",
+  "Mobley et al.",
+  "Dodda et al.",
+  "chlorophenyl"
+ ]
+}

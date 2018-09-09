@@ -1,0 +1,37 @@
+{
+ "ATB Molid": 886,
+ "Formula": "C5H10O",
+ "InChI": "InChI=1S/C5H10O/c1-4(2)5(3)6/h4H,1-3H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -13.56,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -13.56,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -13.56,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -7.797890642698164,
+   "error": 1.483231202038113,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Gerber",
+  "Boulanger et al.",
+  "Mobley et al.",
+  "Dodda et al.",
+  "ketone"
+ ]
+}

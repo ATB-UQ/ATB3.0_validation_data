@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 1040,
+ "Formula": "C4H11NO",
+ "InChI": "InChI=1S/C4H11NO/c1-6-4-2-3-5/h2-5H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -28.98,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -28.98,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -29.870509044118652,
+   "error": 1.069569368136256,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "ether",
+  "amine I",
+  "Gerber"
+ ]
+}

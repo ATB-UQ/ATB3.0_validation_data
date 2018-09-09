@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 30230,
+ "Formula": "C4H5NO2",
+ "InChI": "InChI=1S/C4H5NO2/c1-7-4(6)2-3-5/h2H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -28.12,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -28.12,
+     "error": 2.51,
+     "doi": "10.1139/v80-201"
+    }
+   ]
+  },
+  "TI": {
+   "value": -37.48172306475597,
+   "error": 1.4018581325423234,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "ester",
+  "Boulanger et al.",
+  "Mobley et al.",
+  "nitrile"
+ ]
+}

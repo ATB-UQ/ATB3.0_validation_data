@@ -1,0 +1,64 @@
+{
+ "ATB Molid": 885,
+ "Formula": "C5H10O",
+ "InChI": "InChI=1S/C5H10O/c1-3-5(6)4-2/h3-4H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -14.27,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -14.27,
+     "error": 0.84,
+     "doi": "10.1039/P29900000291"
+    },
+    {
+     "solvent_name": "water",
+     "value": -14.28,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -7.381264974181786,
+   "error": 0.6713828466761825,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -17.005,
+   "mean_uncertainty": 1.2945365966244442,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -17.99,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -16.02,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -15.843516421338528,
+   "error": 1.3223374906221277,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Shivakumar et al.",
+  "Gerber",
+  "Dodda et al.",
+  "Marenich et al.",
+  "Boulanger et al.",
+  "ketone",
+  "Mobley et al."
+ ]
+}

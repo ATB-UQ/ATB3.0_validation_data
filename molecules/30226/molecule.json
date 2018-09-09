@@ -1,0 +1,31 @@
+{
+ "ATB Molid": 30226,
+ "Formula": "C5H4ClN",
+ "InChI": "InChI=1S/C5H5ClN/c6-5-3-1-2-4-7-5/h1-2,4H,3H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -18.37,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -18.37,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -20.042328554711755,
+   "error": 1.2460465269428953,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "aromatic amine II",
+  "chlorophenyl",
+  "Boulanger et al.",
+  "Mobley et al.",
+  "Dodda et al."
+ ]
+}

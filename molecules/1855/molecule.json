@@ -1,0 +1,36 @@
+{
+ "ATB Molid": 1855,
+ "Formula": "C3H3N3O3",
+ "InChI": "InChI=1S/C3H3N3O3/c7-1-4-2(8)6-3(9)5-1/h(H3,4,5,6,7,8,9)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -75.56,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -75.56,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -75.56,
+     "error": 1.13,
+     "doi": "10.1007/s10822-010-9350-8"
+    }
+   ]
+  },
+  "TI": {
+   "value": -58.53198088652932,
+   "error": 0.8094382793319981,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "Mobley et al.",
+  "SAMPL2",
+  "urea"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ATB Molid": 21337,
+ "Formula": "C2H6O",
+ "InChI": "InChI=1S/C2H6O/c1-3-2/h1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -11.05,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -11.05,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    },
+    {
+     "solvent_name": "water",
+     "value": -8.03,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -7.99,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -7.93,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -10.522383655837475,
+   "error": 0.4908029813317153,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -6.23,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -6.23,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -13.618239576755876,
+   "error": 0.9242163565925061,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Marenich et al.",
+  "ether",
+  "Shivakumar et al.",
+  "Dodda et al.",
+  "Gerber",
+  "Boulanger et al."
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 1922,
+ "Formula": "C10H6Cl8",
+ "InChI": "InChI=1S/C10H6Cl8/c11-3-1-2-4(5(3)12)9(16)7(14)6(13)8(2,15)10(9,17)18/h2-5H,1H2/t2-,3+,4-,5-,8+,9-/m0/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -14.4,
+   "mean_uncertainty": 0.4,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -14.4,
+     "error": 0.4,
+     "doi": "10.1021/jp806724u"
+    }
+   ]
+  },
+  "TI": {
+   "value": -23.02679740444981,
+   "error": 0.716277158978277,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "chloro",
+  "cyclohexane",
+  "SAMPL1",
+  "ethene"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "ATB Molid": 27185,
+ "Formula": "C3H8O2",
+ "InChI": "InChI=1S/C3H8O2/c1-5-3-2-4/h4H,2-3H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -28.33,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -28.33,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -28.33,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    },
+    {
+     "solvent_name": "water",
+     "value": -28.31,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": -27.7,
+     "error": 1.67,
+     "doi": "10.1136/oem.45.8.561"
+    }
+   ]
+  },
+  "TI": {
+   "value": -28.294503803089754,
+   "error": 0.9601942937329582,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Mobley et al.",
+  "Gerber",
+  "alcohol",
+  "Shivakumar et al.",
+  "ether",
+  "Boulanger et al.",
+  "Marenich et al."
+ ]
+}

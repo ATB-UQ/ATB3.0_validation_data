@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 30624,
+ "Formula": "C15H14NO2PS",
+ "InChI": "InChI=1S/C15H16NO2PS/c1-2-17-19(20,15-6-4-3-5-7-15)18-14-10-8-13(12-16)9-11-14/h3-11,19-20H,2H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -21.34,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -21.34,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -50.35031114322915,
+   "error": 0.8706388559695087,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "nitrile",
+  "thiophosphate",
+  "Marenich et al."
+ ]
+}

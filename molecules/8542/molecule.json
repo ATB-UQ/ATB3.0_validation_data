@@ -1,0 +1,74 @@
+{
+ "ATB Molid": 8542,
+ "Formula": "C7H9N",
+ "InChI": "InChI=1S/C7H9N/c1-6-4-2-3-5-7(6)8/h2-5H,8H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -23.14,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -23.14,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -23.26,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -19.718162249495787,
+   "error": 0.9027303262564426,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -26.005,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -26.94,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -25.44,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "heptane",
+     "value": -26.28,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "octane",
+     "value": -25.36,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -22.534127306331733,
+   "error": 0.7131939537519811,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "aniline",
+  "Mobley et al.",
+  "Boulanger et al.",
+  "Marenich et al."
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "ATB Molid": 29377,
+ "Formula": "C8H10O",
+ "InChI": "InChI=1S/C8H10O/c1-2-9-8-6-4-3-5-7-8/h3-7H,2H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -9.29,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -9.29,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -10.916011128559092,
+   "error": 1.0481180538253094,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -24.35,
+   "mean_uncertainty": 1.1260994627474077,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -25.1,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -23.6,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -27.742534568448477,
+   "error": 0.7230604910923929,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Boulanger et al.",
+  "Marenich et al.",
+  "Dodda et al.",
+  "phenoxy"
+ ]
+}

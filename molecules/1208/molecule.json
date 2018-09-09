@@ -1,0 +1,50 @@
+{
+ "ATB Molid": 1208,
+ "Formula": "C6H4Br2",
+ "InChI": "InChI=1S/C6H4Br2/c7-5-1-2-6(8)4-3-5/h1-4H",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -9.62,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -9.62,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -9.188263263495937,
+   "error": 0.72742446311389,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -31.59,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "heptane",
+     "value": -31.59,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -40.93727340565114,
+   "error": 0.9266787598656494,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "bromophenyl",
+  "Marenich et al.",
+  "Mobley et al.",
+  "Shivakumar et al."
+ ]
+}

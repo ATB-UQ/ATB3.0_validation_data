@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 30266,
+ "Formula": "C7H17N",
+ "InChI": "InChI=1S/C7H17N/c1-2-3-4-5-6-7-8/h2-8H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -15.86,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -15.86,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -12.82281106266131,
+   "error": 1.2246868548178997,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "amine I",
+  "Boulanger et al.",
+  "Mobley et al.",
+  "Dodda et al."
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 30233,
+ "Formula": "C9H10O3",
+ "InChI": "InChI=1S/C9H10O3/c1-11-8-5-3-7(4-6-8)9(10)12-2/h3-6H,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -22.3,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -22.3,
+     "error": 2.51,
+     "doi": "10.1139/v92-210"
+    }
+   ]
+  },
+  "TI": {
+   "value": -31.93635768908415,
+   "error": 1.388776520049202,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "ester",
+  "phenoxy",
+  "Mobley et al.",
+  "Boulanger et al."
+ ]
+}

@@ -1,0 +1,35 @@
+HEADER    UNCLASSIFIED                            21-Jun-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE UNK                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-06-14 13:42:07
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   Br PBTL    0       2.042  -0.001   0.001  1.00  0.00          Br
+HETATM    2   C2 PBTL    0       0.112   0.002   0.001  1.00  0.00           C
+HETATM    3   C6 PBTL    0      -0.571  -1.214  -0.001  1.00  0.00           C
+HETATM    4   H4 PBTL    0      -0.031  -2.156  -0.002  1.00  0.00           H
+HETATM    5   C4 PBTL    0      -1.966  -1.200  -0.004  1.00  0.00           C
+HETATM    6   H2 PBTL    0      -2.500  -2.148  -0.005  1.00  0.00           H
+HETATM    7   C1 PBTL    0      -2.688   0.003  -0.004  1.00  0.00           C
+HETATM    8   C7 PBTL    0      -4.199  -0.003   0.007  1.00  0.00           C
+HETATM    9   H7 PBTL    0      -4.587  -0.484   0.914  1.00  0.00           H
+HETATM   10   H6 PBTL    0      -4.602  -0.560  -0.849  1.00  0.00           H
+HETATM   11   H5 PBTL    0      -4.604   1.013  -0.031  1.00  0.00           H
+HETATM   12   C3 PBTL    0      -1.966   1.204  -0.004  1.00  0.00           C
+HETATM   13   H1 PBTL    0      -2.500   2.152  -0.004  1.00  0.00           H
+HETATM   14   C5 PBTL    0      -0.568   1.217  -0.001  1.00  0.00           C
+HETATM   15   H3 PBTL    0      -0.029   2.158  -0.002  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3   14
+CONECT    3    2    4    5
+CONECT    4    3
+CONECT    5    3    6    7
+CONECT    6    5
+CONECT    7    5    8   12
+CONECT    8    7    9   10   11
+CONECT    9    8
+CONECT   10    8
+CONECT   11    8
+CONECT   12    7   13   14
+CONECT   13   12
+CONECT   14    2   12   15
+CONECT   15   14
+END

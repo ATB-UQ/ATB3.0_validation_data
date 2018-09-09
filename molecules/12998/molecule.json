@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 12998,
+ "Formula": "C3H2ClF5O",
+ "InChI": "InChI=1S/C3H2ClF5O/c4-1(3(7,8)9)10-2(5)6/h1-2H/t1-/m1/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 0.46,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 0.46,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    }
+   ]
+  },
+  "TI": {
+   "value": -0.3694316582982453,
+   "error": 1.196544124480332,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Shivakumar et al.",
+  "ether",
+  "chloro",
+  "fluoro"
+ ]
+}

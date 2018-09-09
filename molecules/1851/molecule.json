@@ -1,0 +1,57 @@
+{
+ "ATB Molid": 1851,
+ "Formula": "C4H3FN2O2",
+ "InChI": "InChI=1S/C4H3FN2O2/c5-2-1-6-4(9)7-3(2)8/h1H,(H2,6,7,8,9)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -70.79,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -70.79,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -70.79,
+     "error": 3.68,
+     "doi": "10.1007/s10822-010-9350-8"
+    }
+   ]
+  },
+  "TI": {
+   "value": -53.71043527178618,
+   "error": 0.9981973227811536,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -47.2,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "heptane",
+     "value": -47.2,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -24.292963873493967,
+   "error": 1.0249970368587897,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "amide",
+  "SAMPL2",
+  "fluoro",
+  "urea",
+  "Mobley et al."
+ ]
+}

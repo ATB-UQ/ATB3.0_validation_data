@@ -1,0 +1,63 @@
+{
+ "ATB Molid": 18985,
+ "Formula": "C2H2Cl2",
+ "InChI": "InChI=1S/C2H2Cl2/c3-1-2-4/h1-2H/b2-1+",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -3.18,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -3.18,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -3.26,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": 0.4899135553931062,
+   "error": 1.2913811319650215,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -14.035,
+   "mean_uncertainty": 1.3252263957528165,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -13.01,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "undecane",
+     "value": -15.06,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -14.781397437025454,
+   "error": 1.2124799621011588,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Marenich et al.",
+  "Shivakumar et al.",
+  "Dodda et al.",
+  "Boulanger et al.",
+  "chloro"
+ ]
+}

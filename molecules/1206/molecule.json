@@ -1,0 +1,36 @@
+{
+ "ATB Molid": 1206,
+ "Formula": "H4N2",
+ "InChI": "InChI=1S/H4N2/c1-2/h1-2H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -26.19,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -26.19,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -38.91,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -28.78301889842522,
+   "error": 0.8702747989782698,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "hydrazine",
+  "Marenich et al.",
+  "Mobley et al."
+ ]
+}

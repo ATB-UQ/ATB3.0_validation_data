@@ -1,0 +1,70 @@
+{
+ "ATB Molid": 1004,
+ "Formula": "C2H3N",
+ "InChI": "InChI=1S/C2H3N/c1-2-3/h1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -16.26,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -16.26,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": -16.23,
+     "error": 2.51,
+     "doi": "10.1021/jp0264477"
+    }
+   ]
+  },
+  "TI": {
+   "value": -27.30449646852294,
+   "error": 1.1659735012031556,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -8.786666666666667,
+   "mean_uncertainty": 1.2060219272006991,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -7.82,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -9.92,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "heptane",
+     "value": -8.62,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -10.833287397484504,
+   "error": 0.8831660009282135,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Boulanger et al.",
+  "Gerber",
+  "Shivakumar et al.",
+  "nitrile",
+  "Marenich et al.",
+  "Mobley et al."
+ ]
+}

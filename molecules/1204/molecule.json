@@ -1,0 +1,43 @@
+{
+ "ATB Molid": 1204,
+ "Formula": "CH3F",
+ "InChI": "InChI=1S/CH3F/c1-2/h1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -0.92,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -0.92,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -0.92,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": 3.05,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    }
+   ]
+  },
+  "TI": {
+   "value": -0.1985221745606649,
+   "error": 0.35163544247354683,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "Marenich et al.",
+  "Mobley et al.",
+  "fluoro",
+  "Shivakumar et al."
+ ]
+}

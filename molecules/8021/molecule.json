@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 8021,
+ "Formula": "C8H10O2",
+ "InChI": "InChI=1S/C8H10O2/c1-9-7-5-3-4-6-8(7)10-2/h3-6H,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -22.3,
+   "mean_uncertainty": 0.42,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -22.3,
+     "error": 0.42,
+     "doi": "10.1007/s10822-014-9738-y"
+    }
+   ]
+  },
+  "TI": {
+   "value": -26.416428074489588,
+   "error": 1.4807796261508297,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "ether",
+  "Mobley et al.",
+  "phenoxy",
+  "SAMPL4"
+ ]
+}

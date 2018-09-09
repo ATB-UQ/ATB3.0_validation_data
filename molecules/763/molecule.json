@@ -1,0 +1,57 @@
+{
+ "ATB Molid": 763,
+ "Formula": "C3H6",
+ "InChI": "InChI=1S/C3H6/c1-2-3-1/h1-3H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 3.14,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 3.14,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": 3.13,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": 7.091875353999459,
+   "error": 0.45069739181186347,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -7.45,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -7.45,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -7.060749520575525,
+   "error": 0.9843683451086009,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Shivakumar et al.",
+  "Dodda et al.",
+  "Marenich et al.",
+  "cyclopropane",
+  "Mobley et al.",
+  "Gerber"
+ ]
+}

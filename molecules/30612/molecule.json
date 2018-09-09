@@ -1,0 +1,33 @@
+{
+ "ATB Molid": 30612,
+ "Formula": "C12H13N5O6S2",
+ "InChI": "InChI=1S/C12H13N5O6S2/c1-6-13-10(16-12(14-6)23-3)15-11(19)17-25(20,21)7-4-5-24-8(7)9(18)22-2/h4-5H,1-3H3,(H2,15,17,19)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -67.78,
+   "mean_uncertainty": 4.18,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -67.78,
+     "error": 4.18,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -114.59915944665094,
+   "error": 1.1889954060525119,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "phenoxy",
+  "thioether",
+  "Marenich et al.",
+  "urea",
+  "aromatic amine II",
+  "ester",
+  "sulfonyl"
+ ]
+}

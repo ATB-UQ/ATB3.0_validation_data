@@ -1,0 +1,44 @@
+{
+ "ATB Molid": 30429,
+ "Formula": "C6H14O2",
+ "InChI": "InChI=1S/C6H14O2/c1-3-7-5-6-8-4-2/h3-6H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -14.81,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -14.81,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -14.81,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -14.78,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -14.861008713995385,
+   "error": 0.9806414811549657,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "SAMPL0",
+  "ether",
+  "Gerber",
+  "Boulanger et al.",
+  "Mobley et al."
+ ]
+}

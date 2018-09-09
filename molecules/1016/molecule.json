@@ -1,0 +1,64 @@
+{
+ "ATB Molid": 1016,
+ "Formula": "C7H7NO2",
+ "InChI": "InChI=1S/C7H7NO2/c1-6-4-2-3-5-7(6)8(9)10/h2-5H,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -14.98,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -14.98,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -15.01,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -22.288650379873815,
+   "error": 1.143998952786585,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -27.675,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -28.07,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -27.28,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -31.20446165010294,
+   "error": 0.8545677705554009,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "nitro",
+  "Marenich et al.",
+  "Mobley et al.",
+  "Boulanger et al.",
+  "Gerber",
+  "Dodda et al.",
+  "Shivakumar et al."
+ ]
+}

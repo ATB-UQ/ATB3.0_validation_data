@@ -1,0 +1,36 @@
+{
+ "ATB Molid": 14,
+ "Formula": "C9H9N",
+ "InChI": "InChI=1S/C9H9N/c1-7-6-10-9-5-3-2-4-8(7)9/h2-6,10H,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -24.7,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -24.7,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": -24.6,
+     "error": 2.51,
+     "doi": "10.1021/bi00507a030"
+    }
+   ]
+  },
+  "TI": {
+   "value": -27.066407359019088,
+   "error": 0.6163274189029591,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Gerber",
+  "Shivakumar et al.",
+  "Mobley et al.",
+  "aromatic amine II"
+ ]
+}

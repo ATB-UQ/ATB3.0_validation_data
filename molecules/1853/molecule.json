@@ -1,0 +1,37 @@
+{
+ "ATB Molid": 1853,
+ "Formula": "C5H3F3N2O2",
+ "InChI": "InChI=1S/C5H3F3N2O2/c6-5(7,8)2-1-9-4(12)10-3(2)11/h1H,(H2,9,10,11,12)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -64.68,
+   "mean_uncertainty": 0.67,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -64.68,
+     "error": 0.67,
+     "doi": "10.1007/s10822-010-9350-8"
+    },
+    {
+     "solvent_name": "water",
+     "value": -64.68,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -56.07708209547548,
+   "error": 1.0955131554056325,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "urea",
+  "Mobley et al.",
+  "SAMPL2",
+  "fluoro"
+ ]
+}

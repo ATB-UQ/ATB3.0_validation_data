@@ -1,0 +1,57 @@
+{
+ "ATB Molid": 19783,
+ "Formula": "C5H10O2",
+ "InChI": "InChI=1S/C5H10O2/c1-2-3-4-5(6)7/h2-4H2,1H3,(H,6,7)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -25.77,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -25.77,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -27.143421569825826,
+   "error": 0.7515301593743542,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -20.585,
+   "mean_uncertainty": 1.5435753949839963,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -19.29,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "heptane",
+     "value": -21.88,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -20.788650940003425,
+   "error": 1.2761351211792398,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "carboxylic acid",
+  "Shivakumar et al.",
+  "Dodda et al.",
+  "Marenich et al.",
+  "Boulanger et al."
+ ]
+}

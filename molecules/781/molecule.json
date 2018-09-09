@@ -1,0 +1,27 @@
+{
+ "ATB Molid": 781,
+ "Formula": "C6H12",
+ "InChI": "InChI=1S/C6H12/c1-4-5-6(2)3/h4,6H,1,5H2,2-3H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 7.99,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 7.99,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": 7.78151422043897,
+   "error": 0.8775455324438501,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Gerber"
+ ]
+}

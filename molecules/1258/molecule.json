@@ -1,0 +1,31 @@
+{
+ "ATB Molid": 1258,
+ "Formula": "C6H6ClN",
+ "InChI": "InChI=1S/C6H6ClN/c7-5-1-3-6(8)4-2-5/h1-4H,8H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -24.69,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -24.69,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -21.663079068618472,
+   "error": 1.3544513011125636,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "Mobley et al.",
+  "Dodda et al.",
+  "chlorophenyl",
+  "aniline"
+ ]
+}

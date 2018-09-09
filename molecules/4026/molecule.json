@@ -1,0 +1,31 @@
+{
+ "ATB Molid": 4026,
+ "Formula": "C6H5FO",
+ "InChI": "InChI=1S/C6H5FO/c7-5-1-3-6(8)4-2-5/h1-4,8H",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -25.9,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -25.9,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -23.708691118700646,
+   "error": 1.49899963574437,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "fluorophenyl",
+  "Dodda et al.",
+  "Mobley et al.",
+  "phenol",
+  "Boulanger et al."
+ ]
+}

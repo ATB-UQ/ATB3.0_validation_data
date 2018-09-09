@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 30547,
+ "Formula": "C8H9NO2",
+ "InChI": "InChI=1S/C8H9NO2/c1-6(10)9-7-3-2-4-8(11)5-7/h2-5,11H,1H3,(H,9,10)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -58.28,
+   "mean_uncertainty": 4.18,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -58.28,
+     "error": 4.18,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -56.42734627964689,
+   "error": 1.3717043706805732,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "amide",
+  "phenol",
+  "Marenich et al."
+ ]
+}

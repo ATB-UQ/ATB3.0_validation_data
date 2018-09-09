@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 2830,
+ "Formula": "C12H3Cl5O2",
+ "InChI": "InChI=1S/C12H3Cl5O2/c13-4-1-2-5-6(3-4)19-12-10(17)8(15)7(14)9(16)11(12)18-5/h1-3H",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -17.36,
+   "mean_uncertainty": 4.18,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -17.36,
+     "error": 4.18,
+     "doi": "10.1007/s10822-012-9568-8"
+    }
+   ]
+  },
+  "TI": {
+   "value": -17.185492393111442,
+   "error": 0.7425493446405028,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "aryl ether",
+  "Mobley et al.",
+  "chlorophenyl"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ATB Molid": 30398,
+ "Formula": "C5H10O",
+ "InChI": "InChI=1S/C5H10O/c1-2-3-4-5-6/h5H,2-4H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -12.68,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -12.68,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -12.68,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -12.68,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": -14.39,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    }
+   ]
+  },
+  "TI": {
+   "value": -10.303976051046133,
+   "error": 0.6829327202773536,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -16.28,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -16.28,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -17.726032976845833,
+   "error": 1.2373250512119967,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Marenich et al.",
+  "Dodda et al.",
+  "Boulanger et al.",
+  "Shivakumar et al.",
+  "aldehyde",
+  "Gerber"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 30246,
+ "Formula": "C11H16O3",
+ "InChI": "InChI=1S/C11H16O3/c1-3-12-11(13-4-2)14-10-8-6-5-7-9-10/h5-9,11H,3-4H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -21.88,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -21.88,
+     "error": 2.51,
+     "doi": "10.1007/s10822-014-9747-x"
+    }
+   ]
+  },
+  "TI": {
+   "value": -22.258122509337763,
+   "error": 1.1064319088669428,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "phenoxy",
+  "Mobley et al.",
+  "ether"
+ ]
+}

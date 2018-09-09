@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 19090,
+ "Formula": "C14H12ClNO2",
+ "InChI": "InChI=1S/C14H12ClNO2/c1-9-11(15)6-4-8-12(9)16-13-7-3-2-5-10(13)14(17)18/h2-8,16H,1H3,(H,17,18)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -28.07,
+   "mean_uncertainty": 4.18,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -28.07,
+     "error": 4.18,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -47.427575295120015,
+   "error": 1.411464818308351,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "carboxylic acid",
+  "amine II",
+  "chlorophenyl",
+  "Marenich et al."
+ ]
+}

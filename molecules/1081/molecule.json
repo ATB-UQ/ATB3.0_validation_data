@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 1081,
+ "Formula": "C5H6N2",
+ "InChI": "InChI=1S/C5H7N2/c6-5-3-1-2-4-7-5/h1,3-4H,2,6H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -34.0,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -34.0,
+     "error": null,
+     "doi": "10.1021/bi00514a006"
+    }
+   ]
+  },
+  "TI": {
+   "value": -32.3118486059071,
+   "error": 0.8246010872663836,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "aniline",
+  "aromatic amine II",
+  "Gerber"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "ATB Molid": 3167,
+ "Formula": "C2HBrClF3",
+ "InChI": "InChI=1S/C2HBrClF3/c3-1(4)2(5,6)7/h1H/t1-/m1/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -0.54,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -0.54,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -1.324616070767075,
+   "error": 0.9221076294175826,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -12.43,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -12.43,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -26.88360049596255,
+   "error": 1.0070484724822082,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Shivakumar et al.",
+  "chloro",
+  "Marenich et al.",
+  "bromo",
+  "fluoro"
+ ]
+}

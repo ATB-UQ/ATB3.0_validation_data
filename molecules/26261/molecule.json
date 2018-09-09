@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 26261,
+ "Formula": "C6H12O",
+ "InChI": "InChI=1S/C6H12O/c1-5-3-4-6(2)7-5/h5-6H,3-4H2,1-2H3/t5-,6+",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -12.22,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -12.22,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    }
+   ]
+  },
+  "TI": {
+   "value": -14.440355766547729,
+   "error": 0.9550150462478354,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "ether",
+  "Shivakumar et al."
+ ]
+}

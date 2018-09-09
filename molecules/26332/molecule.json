@@ -1,0 +1,70 @@
+{
+ "ATB Molid": 26332,
+ "Formula": "C3H8O",
+ "InChI": "InChI=1S/C3H8O/c1-2-3-4/h4H,2-3H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -20.29,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -20.29,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -20.21,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -20.19,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": -19.54,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    }
+   ]
+  },
+  "TI": {
+   "value": -21.46886868433882,
+   "error": 1.0701369045114002,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -11.76,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "hexane",
+     "value": -11.76,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -11.595784209460467,
+   "error": 1.2102268675419587,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "alcohol",
+  "Gerber",
+  "Shivakumar et al.",
+  "Boulanger et al.",
+  "Dodda et al.",
+  "Marenich et al."
+ ]
+}

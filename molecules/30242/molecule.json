@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 30242,
+ "Formula": "C3H3F3O2",
+ "InChI": "InChI=1S/C3H3F3O2/c1-8-2(7)3(4,5)6/h1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -4.6,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -4.6,
+     "error": 2.51,
+     "doi": "10.1139/v76-032"
+    }
+   ]
+  },
+  "TI": {
+   "value": -6.553715306916092,
+   "error": 1.0334471869359598,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "fluoro",
+  "ester",
+  "Mobley et al."
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 19044,
+ "Formula": "C9H12ClO4P",
+ "InChI": "InChI=1S/C9H12ClO4P/c1-12-15(11,13-2)14-9-7-5-3-4-6(7)8(9)10/h3,5-7H,4H2,1-2H3/t6-,7+/m0/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -30.46,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -30.46,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -37.288658881403016,
+   "error": 1.4426606485370503,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "phosphate",
+  "chloro"
+ ]
+}

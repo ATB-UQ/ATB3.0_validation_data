@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 30215,
+ "Formula": "C9H22O4P2S4",
+ "InChI": "InChI=1S/C9H26O4P2S4/c1-5-10-14(16,11-6-2)18-9-19-15(17,12-7-3)13-8-4/h14-17H,5-9H2,1-4H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -25.52,
+   "mean_uncertainty": 5.73,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -25.52,
+     "error": 5.73,
+     "doi": "10.1021/jp806724u"
+    }
+   ]
+  },
+  "TI": {
+   "value": -43.2794898341887,
+   "error": 1.1754928473670374,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "Mobley et al.",
+  "thiophosphate"
+ ]
+}

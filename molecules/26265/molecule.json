@@ -1,0 +1,63 @@
+{
+ "ATB Molid": 26265,
+ "Formula": "C6H12O",
+ "InChI": "InChI=1S/C6H12O/c1-5(7)6(2,3)4/h1-4H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -12.09,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -12.09,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -12.09,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    },
+    {
+     "solvent_name": "water",
+     "value": -13.01,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -6.665118241887566,
+   "error": 0.8843183166413187,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -18.16,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "hexane",
+     "value": -18.16,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -16.296301656147783,
+   "error": 0.6952526215777097,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "ketone",
+  "Boulanger et al.",
+  "Marenich et al.",
+  "Dodda et al.",
+  "Shivakumar et al."
+ ]
+}

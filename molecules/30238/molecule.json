@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 30238,
+ "Formula": "C5H11ClO3",
+ "InChI": "InChI=1S/C5H11ClO3/c1-7-5(4-6,8-2)9-3/h4H2,1-3H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -19.2,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -19.2,
+     "error": 2.51,
+     "doi": "10.1139/v80-201"
+    }
+   ]
+  },
+  "TI": {
+   "value": -40.310164719498125,
+   "error": 1.2896987027694948,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "chloro",
+  "ether",
+  "Mobley et al."
+ ]
+}

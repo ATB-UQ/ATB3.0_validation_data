@@ -1,0 +1,64 @@
+{
+ "ATB Molid": 936,
+ "Formula": "C4H8O2",
+ "InChI": "InChI=1S/C4H8O2/c1-2-3-4(5)6/h2-3H2,1H3,(H,5,6)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -26.57,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -26.57,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -26.59,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -27.447352052969553,
+   "error": 1.2225322177258635,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -18.64,
+   "mean_uncertainty": 2.627869859791386,
+   "solvents": [
+    {
+     "solvent_name": "heptane",
+     "value": -21.13,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -16.15,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -17.55263929652572,
+   "error": 1.2779442159286498,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Boulanger et al.",
+  "Marenich et al.",
+  "Dodda et al.",
+  "Gerber",
+  "Shivakumar et al.",
+  "carboxylic acid"
+ ]
+}

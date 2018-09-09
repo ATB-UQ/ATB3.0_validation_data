@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 30263,
+ "Formula": "C6H11NO3",
+ "InChI": "InChI=1S/C6H11NO3/c1-8-6(9-2,10-3)4-5-7/h4H2,1-3H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -26.78,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -26.78,
+     "error": 2.51,
+     "doi": "10.1139/v80-201"
+    }
+   ]
+  },
+  "TI": {
+   "value": -41.35435995352651,
+   "error": 1.0774175257026417,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "ether",
+  "Mobley et al.",
+  "nitrile"
+ ]
+}

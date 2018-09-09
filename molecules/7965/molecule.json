@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 7965,
+ "Formula": "C7H6O2",
+ "InChI": "InChI=1S/C7H6O2/c8-5-6-3-1-2-4-7(6)9/h1-5,9H",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -19.6,
+   "mean_uncertainty": 0.4,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -19.6,
+     "error": 0.4,
+     "doi": "10.1007/s10822-014-9738-y"
+    }
+   ]
+  },
+  "TI": {
+   "value": -19.368975646114478,
+   "error": 0.9090606849112735,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "phenol",
+  "Mobley et al.",
+  "aldehyde",
+  "SAMPL4"
+ ]
+}

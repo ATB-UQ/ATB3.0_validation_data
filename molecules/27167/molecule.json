@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 27167,
+ "Formula": "C7H16O2",
+ "InChI": "InChI=1S/C7H16O2/c1-3-4-5-9-6-7(2)8/h7-8H,3-6H2,1-2H3/t7-/m0/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -24.0,
+   "mean_uncertainty": 0.6,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -24.0,
+     "error": 0.6,
+     "doi": "10.1007/s10822-014-9738-y"
+    }
+   ]
+  },
+  "TI": {
+   "value": -25.873619018766764,
+   "error": 1.189067822981999,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "ether",
+  "SAMPL4",
+  "alcohol"
+ ]
+}

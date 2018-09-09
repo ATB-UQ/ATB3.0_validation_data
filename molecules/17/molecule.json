@@ -1,0 +1,58 @@
+{
+ "ATB Molid": 17,
+ "Formula": "C7H8O",
+ "InChI": "InChI=1S/C7H8O/c1-6-2-4-7(8)5-3-6/h2-5,8H,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -25.65,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -25.65,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -25.67,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -25.579552598543653,
+   "error": 1.4873755251372853,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -24.52,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "hexane",
+     "value": -24.52,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -22.734679041539806,
+   "error": 1.4388480837769733,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Shivakumar et al.",
+  "Gerber",
+  "phenol",
+  "Dodda et al.",
+  "Marenich et al.",
+  "Boulanger et al.",
+  "Mobley et al."
+ ]
+}

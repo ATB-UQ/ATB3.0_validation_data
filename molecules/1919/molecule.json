@@ -1,0 +1,32 @@
+{
+ "ATB Molid": 1919,
+ "Formula": "C9H8Cl3NO2S",
+ "InChI": "InChI=1S/C9H8Cl3NO2S/c10-9(11,12)16-13-7(14)5-3-1-2-4-6(5)8(13)15/h1-2,5-6H,3-4H2/t5-,6-/m1/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -37.7,
+   "mean_uncertainty": 8.08,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -37.7,
+     "error": 8.08,
+     "doi": "10.1021/jp806724u"
+    }
+   ]
+  },
+  "TI": {
+   "value": -36.41066254678337,
+   "error": 1.486214606928138,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "urea",
+  "cyclohexane",
+  "thioether",
+  "chloro",
+  "Mobley et al.",
+  "SAMPL1"
+ ]
+}

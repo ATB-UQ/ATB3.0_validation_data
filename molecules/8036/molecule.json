@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 8036,
+ "Formula": "C14H12",
+ "InChI": "InChI=1S/C14H12/c1-12(13-8-4-2-5-9-13)14-10-6-3-7-11-14/h2-11H,1H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -11.6,
+   "mean_uncertainty": 0.4,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -11.6,
+     "error": 0.4,
+     "doi": "10.1007/s10822-014-9738-y"
+    }
+   ]
+  },
+  "TI": {
+   "value": -6.182546175408486,
+   "error": 0.906860471725397,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "phenyl",
+  "SAMPL4"
+ ]
+}

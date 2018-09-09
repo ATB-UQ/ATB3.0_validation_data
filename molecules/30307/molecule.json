@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 30307,
+ "Formula": "C6H14S",
+ "InChI": "InChI=1S/C6H14S/c1-5(2)7-6(3)4/h5-6H,1-4H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -5.06,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -5.06,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -10.107462754486841,
+   "error": 0.9868745831692692,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Dodda et al.",
+  "thioether",
+  "Boulanger et al."
+ ]
+}

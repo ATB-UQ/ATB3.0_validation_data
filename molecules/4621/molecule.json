@@ -1,0 +1,58 @@
+{
+ "ATB Molid": 4621,
+ "Formula": "C2H3F3O",
+ "InChI": "InChI=1S/C2H3F3O/c3-2(4,5)1-6/h6H,1H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -18.03,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -18.03,
+     "error": 2.51,
+     "doi": "10.1039/F19736901577"
+    }
+   ]
+  },
+  "TI": {
+   "value": -16.985169496573395,
+   "error": 0.99166682248464,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -6.695,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -6.4,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -6.99,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -13.207953098083316,
+   "error": 1.1265856610018767,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "alcohol",
+  "Mobley et al.",
+  "Dodda et al.",
+  "Boulanger et al.",
+  "fluoro",
+  "Shivakumar et al."
+ ]
+}

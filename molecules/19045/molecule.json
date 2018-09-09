@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 19045,
+ "Formula": "C11H15BrClO3PS",
+ "InChI": "InChI=1S/C11H15BrClO3PS/c1-3-7-18-17(14,15-4-2)16-11-6-5-9(12)8-10(11)13/h5-6,8H,3-4,7H2,1-2H3/t17-/m1/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -17.11,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -17.11,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -38.28884053943118,
+   "error": 1.2114974240502163,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "chlorophenyl",
+  "bromophenyl",
+  "thiophosphate",
+  "Marenich et al."
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 1257,
+ "Formula": "C6H6N2O2",
+ "InChI": "InChI=1S/C6H6N2O2/c7-5-3-1-2-4-6(5)8(9)10/h1-4H,7H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -30.84,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -30.84,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -48.794896491703255,
+   "error": 1.4623020652787675,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Mobley et al.",
+  "aniline",
+  "nitrophenyl"
+ ]
+}

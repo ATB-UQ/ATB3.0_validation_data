@@ -1,0 +1,106 @@
+{
+ "ATB Molid": 884,
+ "Formula": "C5H10O",
+ "InChI": "InChI=1S/C5H10O/c1-3-4-5(2)6/h3-4H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -14.27,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -14.27,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    },
+    {
+     "solvent_name": "water",
+     "value": -14.73,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -14.77,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -14.76,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -10.721062912075492,
+   "error": 1.1390294567470403,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -16.765714285714285,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "octane",
+     "value": -16.61,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "heptane",
+     "value": -17.03,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "cyclohexane",
+     "value": -17.53,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "pentane",
+     "value": -17.41,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -15.73,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "nonane",
+     "value": -16.61,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "decane",
+     "value": -16.44,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -15.263291943462256,
+   "error": 1.1358236390243401,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Gerber",
+  "Boulanger et al.",
+  "Mobley et al.",
+  "Marenich et al.",
+  "ketone",
+  "Shivakumar et al."
+ ]
+}

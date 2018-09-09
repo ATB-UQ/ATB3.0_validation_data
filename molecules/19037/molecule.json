@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 19037,
+ "Formula": "C2ClF5",
+ "InChI": "InChI=1S/C2ClF5/c3-1(4,5)2(6,7)8",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 11.97,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 11.97,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": 13.308975731976943,
+   "error": 1.4350327820502728,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "fluoro",
+  "Marenich et al.",
+  "chloro"
+ ]
+}

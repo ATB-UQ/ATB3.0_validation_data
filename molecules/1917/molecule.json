@@ -1,0 +1,37 @@
+{
+ "ATB Molid": 1917,
+ "Formula": "C13H16F3N3O4",
+ "InChI": "InChI=1S/C13H16F3N3O4/c1-3-5-6-17(4-2)12-10(18(20)21)7-9(13(14,15)16)8-11(12)19(22)23/h7-8H,3-6H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -14.69,
+   "mean_uncertainty": 8.08,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -14.69,
+     "error": 8.08,
+     "doi": "10.1021/jp806724u"
+    },
+    {
+     "solvent_name": "water",
+     "value": -14.64,
+     "error": 4.18,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -35.42834419453019,
+   "error": 1.332018121000912,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "fluoro",
+  "nitrophenyl",
+  "SAMPL1",
+  "Marenich et al.",
+  "Mobley et al."
+ ]
+}

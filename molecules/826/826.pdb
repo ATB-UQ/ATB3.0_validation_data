@@ -1,0 +1,55 @@
+HEADER    NONAME 27-Sep-09                                              NONE   1
+TITLE                                                                   NONE   2
+AUTHOR    Apache                                                        NONE   3
+REVDAT   1  27-Sep-09     0                                             NONE   4
+COMPND    UNNAMED
+HETATM    1   C1 UNK     0       3.944   0.479   0.001  1.00  0.00           C  
+HETATM    2   C2 UNK     0       2.490   0.084   0.001  1.00  0.00           C  
+HETATM    3   C3 UNK     0       1.532   1.052   0.000  1.00  0.00           C  
+HETATM    4   C4 UNK     0       0.175   0.687   0.000  1.00  0.00           C  
+HETATM    5   C5 UNK     0      -0.175  -0.687   0.001  1.00  0.00           C  
+HETATM    6   C6 UNK     0       0.842  -1.657   0.002  1.00  0.00           C  
+HETATM    7   C7 UNK     0       2.145  -1.266  -0.004  1.00  0.00           C  
+HETATM    8   C8 UNK     0      -1.532  -1.052   0.001  1.00  0.00           C  
+HETATM    9   C9 UNK     0      -2.490  -0.084   0.000  1.00  0.00           C  
+HETATM   10  C10 UNK     0      -2.145   1.266  -0.001  1.00  0.00           C  
+HETATM   11  C11 UNK     0      -0.842   1.657   0.000  1.00  0.00           C  
+HETATM   12  C12 UNK     0      -3.944  -0.480   0.000  1.00  0.00           C  
+HETATM   13   H1 UNK     0       4.294   0.575   1.029  1.00  0.00           H  
+HETATM   14   H2 UNK     0       4.528  -0.284  -0.512  1.00  0.00           H  
+HETATM   15   H3 UNK     0       4.061   1.433  -0.513  1.00  0.00           H  
+HETATM   16   H4 UNK     0       1.814   2.094   0.000  1.00  0.00           H  
+HETATM   17   H5 UNK     0       0.590  -2.707   0.002  1.00  0.00           H  
+HETATM   18   H6 UNK     0       2.925  -2.014  -0.003  1.00  0.00           H  
+HETATM   19   H7 UNK     0      -1.814  -2.094   0.001  1.00  0.00           H  
+HETATM   20   H8 UNK     0      -2.925   2.014  -0.002  1.00  0.00           H  
+HETATM   21   H9 UNK     0      -0.590   2.707  -0.001  1.00  0.00           H  
+HETATM   22  H10 UNK     0      -4.295  -0.574   1.028  1.00  0.00           H  
+HETATM   23  H11 UNK     0      -4.528   0.284  -0.514  1.00  0.00           H  
+HETATM   24  H12 UNK     0      -4.061  -1.434  -0.513  1.00  0.00           H  
+CONECT    1    2   13   14   15                                       
+CONECT    2    1    7    3                                            
+CONECT    3    2    4   16                                            
+CONECT    4    3   11    5                                            
+CONECT    5    4    6    8                                            
+CONECT    6    5    7   17                                            
+CONECT    7    2    6   18                                            
+CONECT    8    5    9   19                                            
+CONECT    9    8   10   12                                            
+CONECT   10    9   11   20                                            
+CONECT   11    4   10   21                                            
+CONECT   12    9   22   23   24                                       
+CONECT   13    1                                                      
+CONECT   14    1                                                      
+CONECT   15    1                                                      
+CONECT   16    3                                                      
+CONECT   17    6                                                      
+CONECT   18    7                                                      
+CONECT   19    8                                                      
+CONECT   20   10                                                      
+CONECT   21   11                                                      
+CONECT   22   12                                                      
+CONECT   23   12                                                      
+CONECT   24   12                                                      
+MASTER        0    0    0    0    0    0    0    0   24    0   24    0
+END

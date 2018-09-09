@@ -1,0 +1,32 @@
+{
+ "ATB Molid": 3168,
+ "Formula": "CBrF3",
+ "InChI": "InChI=1S/CBrF3/c2-1(3,4)5",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 7.49,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 7.49,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": 7.126021555422389,
+   "error": 1.4693432367590447,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "Shivakumar et al.",
+  "bromo",
+  "fluoro",
+  "Mobley et al.",
+  "Marenich et al."
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "ATB Molid": 1863,
+ "Formula": "C14H14O3",
+ "InChI": "InChI=1S/C14H14O3/c1-9(14(15)16)10-3-4-12-8-13(17-2)6-5-11(12)7-10/h3-9H,1-2H3,(H,15,16)/t9-/m0/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -42.72,
+   "mean_uncertainty": 0.75,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -42.72,
+     "error": 0.75,
+     "doi": "10.1007/s10822-010-9350-8"
+    },
+    {
+     "solvent_name": "water",
+     "value": -42.72,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -48.690423643331584,
+   "error": 1.2842975623165709,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "ether",
+  "Marenich et al.",
+  "Mobley et al.",
+  "carboxylic acid"
+ ]
+}

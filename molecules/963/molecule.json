@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 963,
+ "Formula": "C9H18O2",
+ "InChI": "InChI=1S/C9H18O2/c1-3-5-6-7-8-9(10)11-4-2/h3-8H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -9.64,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -9.64,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -11.979071886568882,
+   "error": 1.1440263756535307,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Gerber",
+  "ester"
+ ]
+}

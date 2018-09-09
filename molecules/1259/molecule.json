@@ -1,0 +1,37 @@
+{
+ "ATB Molid": 1259,
+ "Formula": "C7H5NO",
+ "InChI": "InChI=1S/C7H5NO/c8-5-6-1-3-7(9)4-2-6/h1-4,9H",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -42.57,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -42.57,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": -42.55,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -50.1305412212616,
+   "error": 1.2373799476710434,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Gerber",
+  "nitrile",
+  "Mobley et al.",
+  "phenol"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 30264,
+ "Formula": "C7H14",
+ "InChI": "InChI=1S/C7H14/c1-3-5-7-6-4-2/h3H,1,4-7H2,2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 6.95,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 6.95,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": 8.066431914538406,
+   "error": 0.7648015574669103,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "Dodda et al.",
+  "Mobley et al."
+ ]
+}

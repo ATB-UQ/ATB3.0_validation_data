@@ -1,0 +1,37 @@
+{
+ "ATB Molid": 1630,
+ "Formula": "C10H13NO2",
+ "InChI": "InChI=1S/C10H13NO2/c1-11(2)10(12)8-4-6-9(13-3)7-5-8/h4-7H,1-3H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -46.07,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -46.07,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -46.07,
+     "error": 2.51,
+     "doi": "10.1139/v92-210"
+    }
+   ]
+  },
+  "TI": {
+   "value": -52.33670827305108,
+   "error": 1.1719139877330467,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "SAMPL0",
+  "Marenich et al.",
+  "Mobley et al.",
+  "phenoxy",
+  "amide"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 1003,
+ "Formula": "C13H21N",
+ "InChI": "InChI=1S/C13H22N/c1-12(2,3)10-8-7-9-11(14-10)13(4,5)6/h7-8H,9H2,1-6H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -1.7,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -1.7,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": 5.367458006120268,
+   "error": 0.7351635662341001,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "aromatic amine II",
+  "Gerber"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "ATB Molid": 25458,
+ "Formula": "C3H7I",
+ "InChI": "InChI=1S/C3H7I/c1-2-3-4/h2-3H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -2.47,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -2.47,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -2.47,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    },
+    {
+     "solvent_name": "water",
+     "value": -2.22,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -6.055249271103716,
+   "error": 0.8903631062819584,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -17.87,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -17.87,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -25.044684672041925,
+   "error": 0.9661017350569662,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "Dodda et al.",
+  "Mobley et al.",
+  "Shivakumar et al.",
+  "iodo"
+ ]
+}

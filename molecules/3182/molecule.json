@@ -1,0 +1,51 @@
+{
+ "ATB Molid": 3182,
+ "Formula": "C3H7Br",
+ "InChI": "InChI=1S/C3H7Br/c1-3(2)4/h3H,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -2.01,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -2.01,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -5.412062956764169,
+   "error": 0.43910314646068527,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -13.64,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -13.64,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -20.140774795320237,
+   "error": 1.2283050143319576,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Shivakumar et al.",
+  "bromo",
+  "Boulanger et al.",
+  "Dodda et al.",
+  "Marenich et al.",
+  "Mobley et al."
+ ]
+}

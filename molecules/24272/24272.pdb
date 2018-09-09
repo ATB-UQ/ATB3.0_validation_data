@@ -1,0 +1,97 @@
+HEADER    UNCLASSIFIED                            23-Jun-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE UNL                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-06-14 13:42:07
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   O5 LSLU    0       0.912   0.951   1.852  1.00  0.00           O
+HETATM    2  C14 LSLU    0       1.474   1.784   1.156  1.00  0.00           C
+HETATM    3   O6 LSLU    0       1.135   3.085   1.179  1.00  0.00           O
+HETATM    4  C15 LSLU    0       0.050   3.443   2.059  1.00  0.00           C
+HETATM    5  H15 LSLU    0      -0.871   2.946   1.746  1.00  0.00           H
+HETATM    6  H14 LSLU    0      -0.048   4.525   1.968  1.00  0.00           H
+HETATM    7  H13 LSLU    0       0.287   3.162   3.088  1.00  0.00           H
+HETATM    8  C13 LSLU    0       2.591   1.507   0.199  1.00  0.00           C
+HETATM    9  C12 LSLU    0       2.993   2.520  -0.689  1.00  0.00           C
+HETATM   10  H12 LSLU    0       2.481   3.475  -0.662  1.00  0.00           H
+HETATM   11  C11 LSLU    0       4.030   2.315  -1.596  1.00  0.00           C
+HETATM   12  H11 LSLU    0       4.317   3.112  -2.277  1.00  0.00           H
+HETATM   13  C10 LSLU    0       4.696   1.090  -1.619  1.00  0.00           C
+HETATM   14  H10 LSLU    0       5.513   0.918  -2.315  1.00  0.00           H
+HETATM   15   C9 LSLU    0       4.316   0.082  -0.736  1.00  0.00           C
+HETATM   16   H9 LSLU    0       4.841  -0.869  -0.747  1.00  0.00           H
+HETATM   17   C8 LSLU    0       3.266   0.262   0.173  1.00  0.00           C
+HETATM   18   C7 LSLU    0       2.944  -0.884   1.095  1.00  0.00           C
+HETATM   19   H8 LSLU    0       3.842  -1.462   1.339  1.00  0.00           H
+HETATM   20   H7 LSLU    0       2.440  -0.575   2.008  1.00  0.00           H
+HETATM   21   S1 LSLU    0       1.847  -2.165   0.375  1.00  0.00           S
+HETATM   22   O4 LSLU    0       1.299  -2.940   1.497  1.00  0.00           O
+HETATM   23   O3 LSLU    0       2.548  -2.850  -0.713  1.00  0.00           O
+HETATM   24   N4 LSLU    0       0.506  -1.352  -0.254  1.00  0.00           N
+HETATM   25   H6 LSLU    0      -0.276  -1.196   0.398  1.00  0.00           H
+HETATM   26   C6 LSLU    0       0.320  -0.927  -1.561  1.00  0.00           C
+HETATM   27   O2 LSLU    0       1.155  -0.968  -2.449  1.00  0.00           O
+HETATM   28   N3 LSLU    0      -0.956  -0.421  -1.824  1.00  0.00           N
+HETATM   29   H5 LSLU    0      -1.078  -0.151  -2.793  1.00  0.00           H
+HETATM   30   C5 LSLU    0      -2.099  -0.279  -1.040  1.00  0.00           C
+HETATM   31   N2 LSLU    0      -3.167   0.160  -1.699  1.00  0.00           N
+HETATM   32   C2 LSLU    0      -4.285   0.311  -0.967  1.00  0.00           C
+HETATM   33   C3 LSLU    0      -4.338   0.034   0.399  1.00  0.00           C
+HETATM   34   H4 LSLU    0      -5.222   0.154   1.010  1.00  0.00           H
+HETATM   35   C4 LSLU    0      -3.141  -0.413   0.971  1.00  0.00           C
+HETATM   36   O7 LSLU    0      -3.143  -0.676   2.281  1.00  0.00           O
+HETATM   37  C16 LSLU    0      -1.904  -1.076   2.902  1.00  0.00           C
+HETATM   38  H18 LSLU    0      -1.554  -2.028   2.492  1.00  0.00           H
+HETATM   39  H17 LSLU    0      -1.138  -0.309   2.762  1.00  0.00           H
+HETATM   40  H16 LSLU    0      -2.144  -1.190   3.959  1.00  0.00           H
+HETATM   41   N1 LSLU    0      -2.018  -0.578   0.266  1.00  0.00           N
+HETATM   42   O1 LSLU    0      -5.323   0.754  -1.692  1.00  0.00           O
+HETATM   43   C1 LSLU    0      -6.585   0.947  -1.036  1.00  0.00           C
+HETATM   44   H3 LSLU    0      -7.264   1.306  -1.809  1.00  0.00           H
+HETATM   45   H2 LSLU    0      -6.501   1.694  -0.240  1.00  0.00           H
+HETATM   46   H1 LSLU    0      -6.958   0.003  -0.626  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3    8
+CONECT    3    2    4
+CONECT    4    3    5    6    7
+CONECT    5    4
+CONECT    6    4
+CONECT    7    4
+CONECT    8    2    9   17
+CONECT    9    8   10   11
+CONECT   10    9
+CONECT   11    9   12   13
+CONECT   12   11
+CONECT   13   11   14   15
+CONECT   14   13
+CONECT   15   13   16   17
+CONECT   16   15
+CONECT   17    8   15   18
+CONECT   18   17   19   20   21
+CONECT   19   18
+CONECT   20   18
+CONECT   21   18   22   23   24
+CONECT   22   21
+CONECT   23   21
+CONECT   24   21   25   26
+CONECT   25   24
+CONECT   26   24   27   28
+CONECT   27   26
+CONECT   28   26   29   30
+CONECT   29   28
+CONECT   30   28   31   41
+CONECT   31   30   32
+CONECT   32   31   33   42
+CONECT   33   32   34   35
+CONECT   34   33
+CONECT   35   33   36   41
+CONECT   36   35   37
+CONECT   37   36   38   39   40
+CONECT   38   37
+CONECT   39   37
+CONECT   40   37
+CONECT   41   30   35
+CONECT   42   32   43
+CONECT   43   42   44   45   46
+CONECT   44   43
+CONECT   45   43
+CONECT   46   43
+END

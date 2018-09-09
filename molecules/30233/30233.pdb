@@ -1,0 +1,49 @@
+HEADER    UNCLASSIFIED                            16-Feb-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE LIG                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-02-05 15:47:32
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   O1 XCK5    0       2.613   1.493  -0.003  1.00  0.00           O
+HETATM    2   C7 XCK5    0       2.112   0.377  -0.006  1.00  0.00           C
+HETATM    3   O3 XCK5    0       2.851  -0.753   0.003  1.00  0.00           O
+HETATM    4   C9 XCK5    0       4.279  -0.570   0.031  1.00  0.00           C
+HETATM    5  H10 XCK5    0       4.612  -0.026  -0.857  1.00  0.00           H
+HETATM    6   H9 XCK5    0       4.575  -0.017   0.927  1.00  0.00           H
+HETATM    7   H8 XCK5    0       4.701  -1.575   0.045  1.00  0.00           H
+HETATM    8   C5 XCK5    0       0.655   0.109  -0.015  1.00  0.00           C
+HETATM    9   C2 XCK5    0       0.119  -1.193  -0.015  1.00  0.00           C
+HETATM   10   H2 XCK5    0       0.785  -2.049  -0.015  1.00  0.00           H
+HETATM   11   C4 XCK5    0      -1.253  -1.388  -0.011  1.00  0.00           C
+HETATM   12   H4 XCK5    0      -1.678  -2.387  -0.011  1.00  0.00           H
+HETATM   13   C6 XCK5    0      -2.126  -0.284  -0.008  1.00  0.00           C
+HETATM   14   O2 XCK5    0      -3.450  -0.581  -0.005  1.00  0.00           O
+HETATM   15   C8 XCK5    0      -4.393   0.494   0.039  1.00  0.00           C
+HETATM   16   H7 XCK5    0      -5.376   0.023   0.057  1.00  0.00           H
+HETATM   17   H6 XCK5    0      -4.259   1.099   0.943  1.00  0.00           H
+HETATM   18   H5 XCK5    0      -4.309   1.133  -0.848  1.00  0.00           H
+HETATM   19   C3 XCK5    0      -1.603   1.019  -0.010  1.00  0.00           C
+HETATM   20   H3 XCK5    0      -2.256   1.884  -0.008  1.00  0.00           H
+HETATM   21   C1 XCK5    0      -0.222   1.201  -0.016  1.00  0.00           C
+HETATM   22   H1 XCK5    0       0.192   2.204  -0.016  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3    8
+CONECT    3    2    4
+CONECT    4    3    5    6    7
+CONECT    5    4
+CONECT    6    4
+CONECT    7    4
+CONECT    8    2    9   21
+CONECT    9    8   10   11
+CONECT   10    9
+CONECT   11    9   12   13
+CONECT   12   11
+CONECT   13   11   14   19
+CONECT   14   13   15
+CONECT   15   14   16   17   18
+CONECT   16   15
+CONECT   17   15
+CONECT   18   15
+CONECT   19   13   20   21
+CONECT   20   19
+CONECT   21    8   19   22
+CONECT   22   21
+END

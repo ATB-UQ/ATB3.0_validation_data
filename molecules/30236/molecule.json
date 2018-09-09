@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 30236,
+ "Formula": "C8H14O",
+ "InChI": "InChI=1S/C8H14O/c1-7(9)8-5-3-2-4-6-8/h8H,2-6H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -16.32,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -16.32,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -13.27509607919719,
+   "error": 1.2703977688284502,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "cyclohexane",
+  "Mobley et al.",
+  "ketone",
+  "Dodda et al."
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 30210,
+ "Formula": "C10H19O6PS2",
+ "InChI": "InChI=1S/C10H21O6PS2/c1-5-15-9(11)7-8(10(12)16-6-2)19-17(18,13-3)14-4/h8,17-18H,5-7H2,1-4H3/t8-/m1/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -34.31,
+   "mean_uncertainty": 4.18,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -34.31,
+     "error": 4.18,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -51.75323396797337,
+   "error": 1.061755019467484,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "thiophosphate",
+  "Marenich et al.",
+  "ester"
+ ]
+}

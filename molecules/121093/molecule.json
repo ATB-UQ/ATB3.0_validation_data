@@ -1,0 +1,37 @@
+{
+ "ATB Molid": 121093,
+ "Formula": "C9H13BrN2O2",
+ "InChI": "InChI=1S/C9H13BrN2O2/c1-4-5(2)12-8(13)7(10)6(3)11-9(12)14/h5H,4H2,1-3H3,(H,11,14)/t5-/m0/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -40.71,
+   "mean_uncertainty": 8.08,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -40.71,
+     "error": 8.08,
+     "doi": "10.1021/jp806724u"
+    },
+    {
+     "solvent_name": "water",
+     "value": -40.58,
+     "error": 4.18,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -59.65425050046236,
+   "error": 1.2263652416986388,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "urea",
+  "Marenich et al.",
+  "Mobley et al.",
+  "bromo",
+  "ketone"
+ ]
+}

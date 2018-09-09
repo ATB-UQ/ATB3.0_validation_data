@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 1201,
+ "Formula": "C2H6O2S",
+ "InChI": "InChI=1S/C2H6O2S/c1-5(2,3)4/h1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -42.17,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -42.17,
+     "error": 2.51,
+     "doi": "10.1007/s10822-014-9747-x"
+    }
+   ]
+  },
+  "TI": {
+   "value": -40.796619105011075,
+   "error": 0.8533384269826454,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "Mobley et al.",
+  "sulfonyl"
+ ]
+}

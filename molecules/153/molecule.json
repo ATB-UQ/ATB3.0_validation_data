@@ -1,0 +1,50 @@
+{
+ "ATB Molid": 153,
+ "Formula": "C7H9N",
+ "InChI": "InChI=1S/C7H9N/c1-6-2-4-7(8)5-3-6/h2-5H,8H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -23.3,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -23.3,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -19.325758971273252,
+   "error": 1.145739084638815,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -25.86,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "hexane",
+     "value": -25.86,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -22.800441995628557,
+   "error": 1.3070326932622545,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "aniline",
+  "Mobley et al.",
+  "Boulanger et al.",
+  "Marenich et al."
+ ]
+}

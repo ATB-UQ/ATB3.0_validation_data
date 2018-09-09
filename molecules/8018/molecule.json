@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 8018,
+ "Formula": "C12H20O2",
+ "InChI": "InChI=1S/C12H20O2/c1-6-12(5,14-11(4)13)9-7-8-10(2)3/h6,8H,1,7,9H2,2-5H3/t12-/m0/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -10.42,
+   "mean_uncertainty": 3.56,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -10.42,
+     "error": 3.56,
+     "doi": "10.1007/s10822-014-9738-y"
+    }
+   ]
+  },
+  "TI": {
+   "value": -10.853876956248046,
+   "error": 1.2159059105337164,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "ester",
+  "SAMPL4",
+  "Mobley et al."
+ ]
+}

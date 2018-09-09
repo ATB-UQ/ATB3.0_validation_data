@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 29202,
+ "Formula": "C7H15I",
+ "InChI": "InChI=1S/C7H15I/c1-2-3-4-5-6-7-8/h2-7H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 1.13,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 1.13,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -4.37694080186224,
+   "error": 1.3005628172962562,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "iodo",
+  "Dodda et al.",
+  "Mobley et al."
+ ]
+}

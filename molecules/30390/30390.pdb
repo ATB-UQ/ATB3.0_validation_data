@@ -1,0 +1,33 @@
+HEADER    UNCLASSIFIED                            09-May-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE LIG                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-04-26 13:45:36
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   CL 3BLU    0       1.015  -0.999  -0.054  1.00  0.00          Cl
+HETATM    2   C4 3BLU    0       0.102   0.573   0.359  1.00  0.00           C
+HETATM    3   H9 3BLU    0      -0.017   0.513   1.444  1.00  0.00           H
+HETATM    4   C3 3BLU    0      -1.262   0.576  -0.329  1.00  0.00           C
+HETATM    5   H8 3BLU    0      -1.114   0.536  -1.416  1.00  0.00           H
+HETATM    6   H7 3BLU    0      -1.705   1.559  -0.111  1.00  0.00           H
+HETATM    7   C1 3BLU    0      -2.222  -0.526   0.124  1.00  0.00           C
+HETATM    8   H3 3BLU    0      -1.829  -1.520  -0.115  1.00  0.00           H
+HETATM    9   H2 3BLU    0      -2.393  -0.481   1.207  1.00  0.00           H
+HETATM   10   H1 3BLU    0      -3.192  -0.417  -0.374  1.00  0.00           H
+HETATM   11   C2 3BLU    0       0.984   1.753  -0.021  1.00  0.00           C
+HETATM   12   H6 3BLU    0       1.142   1.796  -1.105  1.00  0.00           H
+HETATM   13   H5 3BLU    0       1.958   1.699   0.474  1.00  0.00           H
+HETATM   14   H4 3BLU    0       0.491   2.682   0.292  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3    4   11
+CONECT    3    2
+CONECT    4    2    5    6    7
+CONECT    5    4
+CONECT    6    4
+CONECT    7    4    8    9   10
+CONECT    8    7
+CONECT    9    7
+CONECT   10    7
+CONECT   11    2   12   13   14
+CONECT   12   11
+CONECT   13   11
+CONECT   14   11
+END

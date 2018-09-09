@@ -1,0 +1,31 @@
+{
+ "ATB Molid": 8027,
+ "Formula": "C9H9ClO4",
+ "InChI": "InChI=1S/C9H9ClO4/c1-13-6-3-5(4-11)7(10)9(14-2)8(6)12/h3-4,12H,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -32.55,
+   "mean_uncertainty": 3.22,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -32.55,
+     "error": 3.22,
+     "doi": "10.1007/s10822-014-9738-y"
+    }
+   ]
+  },
+  "TI": {
+   "value": -45.02644879262188,
+   "error": 1.4659609512376552,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "SAMPL4",
+  "aldehyde",
+  "chlorophenyl",
+  "Mobley et al.",
+  "phenol"
+ ]
+}

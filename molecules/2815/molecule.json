@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 2815,
+ "Formula": "C12H4Cl6",
+ "InChI": "InChI=1S/C12H4Cl6/c13-7-2-1-5(3-8(7)14)6-4-9(15)11(17)12(18)10(6)16/h1-4H",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -12.72,
+   "mean_uncertainty": 0.42,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -12.72,
+     "error": 0.42,
+     "doi": "10.1007/s10822-012-9568-8"
+    }
+   ]
+  },
+  "TI": {
+   "value": -10.64973989186387,
+   "error": 1.3829618663262189,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "chlorophenyl",
+  "Mobley et al."
+ ]
+}

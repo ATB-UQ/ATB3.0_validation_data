@@ -1,0 +1,51 @@
+{
+ "ATB Molid": 3172,
+ "Formula": "C2H2Cl2",
+ "InChI": "InChI=1S/C2H2Cl2/c3-1-2-4/h1-2H/b2-1-",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -4.9,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -4.9,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -2.3838044785631176,
+   "error": 0.7301845418587114,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -13.93,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -13.93,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -14.913210842277989,
+   "error": 1.2016673921427636,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Shivakumar et al.",
+  "Boulanger et al.",
+  "Dodda et al.",
+  "Mobley et al.",
+  "chloro",
+  "Marenich et al."
+ ]
+}

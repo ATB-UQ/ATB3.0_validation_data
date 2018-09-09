@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 48262,
+ "Formula": "C10H9N",
+ "InChI": "InChI=1S/C10H9N/c11-10-6-5-8-3-1-2-4-9(8)7-10/h1-7H,11H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -31.25,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -31.25,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -24.403109775471474,
+   "error": 1.3131433299388808,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "aniline",
+  "Dodda et al.",
+  "Mobley et al."
+ ]
+}

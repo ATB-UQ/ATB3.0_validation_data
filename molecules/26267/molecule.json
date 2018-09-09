@@ -1,0 +1,50 @@
+{
+ "ATB Molid": 26267,
+ "Formula": "C4H9I",
+ "InChI": "InChI=1S/C4H9I/c1-2-3-4-5/h2-4H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -1.05,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -1.05,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -5.078741536956675,
+   "error": 0.6731709534887635,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -20.71,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -20.71,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -27.814198754354,
+   "error": 1.4113050302117938,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Dodda et al.",
+  "Marenich et al.",
+  "iodo",
+  "Shivakumar et al."
+ ]
+}

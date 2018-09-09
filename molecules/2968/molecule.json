@@ -1,0 +1,37 @@
+{
+ "ATB Molid": 2968,
+ "Formula": "C10H12N3O3PS2",
+ "InChI": "InChI=1S/C10H16N3O3PS2/c1-15-17(18,16-2)19-7-13-10(14)8-5-3-4-6-9(8)11-12-13/h3-6,8,12,17-18H,7H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -41.97,
+   "mean_uncertainty": 5.73,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -41.97,
+     "error": 5.73,
+     "doi": "10.1021/jp806724u"
+    },
+    {
+     "solvent_name": "water",
+     "value": -41.84,
+     "error": 4.18,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -69.33013994613341,
+   "error": 1.201206601402438,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "azide",
+  "Marenich et al.",
+  "SAMPL1",
+  "amide",
+  "Mobley et al."
+ ]
+}

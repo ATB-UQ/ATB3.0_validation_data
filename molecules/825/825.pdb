@@ -1,0 +1,53 @@
+HEADER    UNCLASSIFIED                            16-Feb-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE UNK                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-02-05 15:47:32
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   H1 G079    0      -3.691   1.236  -0.851  1.00  0.00           H
+HETATM    2   C1 G079    0      -3.061   1.481   0.014  1.00  0.00           C
+HETATM    3   H3 G079    0      -2.884   2.560   0.007  1.00  0.00           H
+HETATM    4   H2 G079    0      -3.651   1.242   0.909  1.00  0.00           H
+HETATM    5   C2 G079    0      -1.757   0.718  -0.008  1.00  0.00           C
+HETATM    6  C11 G079    0      -1.757  -0.718  -0.007  1.00  0.00           C
+HETATM    7  C12 G079    0      -3.061  -1.481   0.016  1.00  0.00           C
+HETATM    8  H12 G079    0      -2.884  -2.560   0.014  1.00  0.00           H
+HETATM    9  H11 G079    0      -3.690  -1.239  -0.850  1.00  0.00           H
+HETATM   10  H10 G079    0      -3.652  -1.238   0.910  1.00  0.00           H
+HETATM   11  C10 G079    0      -0.552  -1.392  -0.014  1.00  0.00           C
+HETATM   12   H9 G079    0      -0.550  -2.481  -0.012  1.00  0.00           H
+HETATM   13   C9 G079    0       0.697  -0.716  -0.013  1.00  0.00           C
+HETATM   14   C8 G079    0       1.941  -1.404  -0.003  1.00  0.00           C
+HETATM   15   H8 G079    0       1.939  -2.492  -0.006  1.00  0.00           H
+HETATM   16   C7 G079    0       3.132  -0.709   0.015  1.00  0.00           C
+HETATM   17   H7 G079    0       4.077  -1.246   0.024  1.00  0.00           H
+HETATM   18   C6 G079    0       3.132   0.709   0.015  1.00  0.00           C
+HETATM   19   H6 G079    0       4.077   1.246   0.025  1.00  0.00           H
+HETATM   20   C5 G079    0       1.941   1.404  -0.001  1.00  0.00           C
+HETATM   21   H5 G079    0       1.938   2.492  -0.003  1.00  0.00           H
+HETATM   22   C4 G079    0       0.697   0.716  -0.012  1.00  0.00           C
+HETATM   23   C3 G079    0      -0.552   1.392  -0.014  1.00  0.00           C
+HETATM   24   H4 G079    0      -0.550   2.481  -0.012  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3    4    5
+CONECT    3    2
+CONECT    4    2
+CONECT    5    2    6   23
+CONECT    6    5    7   11
+CONECT    7    6    8    9   10
+CONECT    8    7
+CONECT    9    7
+CONECT   10    7
+CONECT   11    6   12   13
+CONECT   12   11
+CONECT   13   11   14   22
+CONECT   14   13   15   16
+CONECT   15   14
+CONECT   16   14   17   18
+CONECT   17   16
+CONECT   18   16   19   20
+CONECT   19   18
+CONECT   20   18   21   22
+CONECT   21   20
+CONECT   22   13   20   23
+CONECT   23    5   22   24
+CONECT   24   23
+END

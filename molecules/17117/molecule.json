@@ -1,0 +1,53 @@
+{
+ "ATB Molid": 17117,
+ "Formula": "H2O",
+ "InChI": "InChI=1S/H2O/h1H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -26.4,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -26.4,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -17.983071170541397,
+   "error": 0.40053391013888157,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -1.545,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -1.63,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -1.46,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": 3.773024431823017,
+   "error": 0.346770172593452,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "water"
+ ]
+}

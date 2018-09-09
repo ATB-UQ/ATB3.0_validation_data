@@ -1,0 +1,31 @@
+{
+ "ATB Molid": 649,
+ "Formula": "C7H9NO",
+ "InChI": "InChI=1S/C7H9NO/c1-9-7-5-3-2-4-6(7)8/h2-5H,8H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -25.61,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -25.61,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -32.029506842451596,
+   "error": 1.1832755680146914,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Boulanger et al.",
+  "Mobley et al.",
+  "aniline",
+  "phenoxy"
+ ]
+}

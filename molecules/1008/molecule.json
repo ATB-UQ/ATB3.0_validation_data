@@ -1,0 +1,57 @@
+{
+ "ATB Molid": 1008,
+ "Formula": "C4H9NO",
+ "InChI": "InChI=1S/C4H9NO/c1-4(6)5(2)3/h1-3H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -35.77,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -35.77,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": -35.56,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    }
+   ]
+  },
+  "TI": {
+   "value": -37.89848635690895,
+   "error": 1.1959055804216385,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -20.08,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "heptane",
+     "value": -20.08,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -25.55791089235304,
+   "error": 0.9315022783713884,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Shivakumar et al.",
+  "Gerber",
+  "amide",
+  "Marenich et al.",
+  "Dodda et al.",
+  "Boulanger et al."
+ ]
+}

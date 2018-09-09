@@ -1,0 +1,58 @@
+{
+ "ATB Molid": 1012,
+ "Formula": "C2H5NO2",
+ "InChI": "InChI=1S/C2H5NO2/c1-2-3(4)5/h2H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -15.52,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -15.52,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -15.52,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -19.97918115382999,
+   "error": 1.470859928568858,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -13.35,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "hexane",
+     "value": -13.35,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -18.309657162371796,
+   "error": 1.264907525863935,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Marenich et al.",
+  "Dodda et al.",
+  "Boulanger et al.",
+  "Shivakumar et al.",
+  "Gerber",
+  "nitro"
+ ]
+}

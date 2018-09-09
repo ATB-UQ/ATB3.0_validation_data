@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 30198,
+ "Formula": "C6H12O2",
+ "InChI": "InChI=1S/C6H12O2/c1-6(2,3)5(7)8-4/h1-4H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -10.04,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -10.04,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -6.372683851212424,
+   "error": 1.3177776837158865,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Mobley et al.",
+  "ester",
+  "Boulanger et al."
+ ]
+}

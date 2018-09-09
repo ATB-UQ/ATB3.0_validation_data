@@ -1,0 +1,49 @@
+{
+ "ATB Molid": 19015,
+ "Formula": "C4H5F3O",
+ "InChI": "InChI=1S/C4H5F3O/c1-2-8-3-4(5,6)7/h2H,1,3H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -0.5,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -0.5,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -0.317102093378163,
+   "error": 0.9563503663055042,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -7.99,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -7.99,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -22.878381485129264,
+   "error": 1.3960988661283507,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "ether",
+  "Shivakumar et al.",
+  "fluoro"
+ ]
+}

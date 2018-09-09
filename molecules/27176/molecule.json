@@ -1,0 +1,31 @@
+{
+ "ATB Molid": 27176,
+ "Formula": "C16H13NO3",
+ "InChI": "InChI=1S/C16H13NO3/c18-9-8-17-13-7-3-6-12-14(13)16(20)11-5-2-1-4-10(11)15(12)19/h1-7,17-18H,8-9H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -59.45,
+   "mean_uncertainty": 4.6,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -59.45,
+     "error": 4.6,
+     "doi": "10.1007/s10822-014-9738-y"
+    }
+   ]
+  },
+  "TI": {
+   "value": -61.916833805397886,
+   "error": 0.9881935502722525,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "SAMPL4",
+  "Mobley et al.",
+  "alcohol",
+  "amine II",
+  "ketone"
+ ]
+}

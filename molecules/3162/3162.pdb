@@ -1,0 +1,15 @@
+HEADER    UNCLASSIFIED                            22-Dec-17
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE UNK                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2017-12-20 11:24:08
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   F1 TFME    0      -0.979   0.401   0.805  1.00  0.00           F
+HETATM    2   C1 TFME    0       0.000  -0.000   0.000  1.00  0.00           C
+HETATM    3   F4 TFME    0       0.170  -1.312   0.128  1.00  0.00           F
+HETATM    4   F3 TFME    0       1.126   0.627   0.326  1.00  0.00           F
+HETATM    5   F2 TFME    0      -0.318   0.284  -1.259  1.00  0.00           F
+CONECT    1    2
+CONECT    2    1    3    4    5
+CONECT    3    2
+CONECT    4    2
+CONECT    5    2
+END

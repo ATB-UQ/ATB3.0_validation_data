@@ -1,0 +1,37 @@
+{
+ "ATB Molid": 1861,
+ "Formula": "C9H8O4",
+ "InChI": "InChI=1S/C9H8O4/c1-6(10)13-8-5-3-2-4-7(8)9(11)12/h2-5H,1H3,(H,11,12)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -41.59,
+   "mean_uncertainty": 0.75,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -41.59,
+     "error": 0.75,
+     "doi": "10.1007/s10822-010-9350-8"
+    },
+    {
+     "solvent_name": "water",
+     "value": -41.59,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -50.411634966964264,
+   "error": 1.1152907475356704,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "ester",
+  "SAMPL2",
+  "carboxylic acid",
+  "Marenich et al.",
+  "Mobley et al."
+ ]
+}

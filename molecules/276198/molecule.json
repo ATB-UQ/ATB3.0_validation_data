@@ -1,0 +1,47 @@
+{
+ "ATB Molid": 276198,
+ "Formula": "C12H8Cl2",
+ "InChI": "InChI=1S/C12H8Cl2/c13-11-7-3-1-5-9(11)10-6-2-4-8-12(10)14/h1-8H",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -11.42,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -11.42,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -12.687295733509332,
+   "error": 1.3840510666126105,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -38.58,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "heptane",
+     "value": -38.58,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -41.57238429934043,
+   "error": 0.8354302938207268,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "chlorophenyl",
+  "Marenich et al."
+ ]
+}

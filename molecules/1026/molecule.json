@@ -1,0 +1,35 @@
+{
+ "ATB Molid": 1026,
+ "Formula": "C2H8N2",
+ "InChI": "InChI=1S/C2H8N2/c3-1-2-4/h1-4H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -40.67,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -40.67,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -31.78,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -42.355733000933796,
+   "error": 1.3092382666464215,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "amine I",
+  "Marenich et al.",
+  "Gerber"
+ ]
+}

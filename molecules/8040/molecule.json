@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 8040,
+ "Formula": "C20H23N",
+ "InChI": "InChI=1S/C20H23N/c1-21(2)15-7-12-20-18-10-5-3-8-16(18)13-14-17-9-4-6-11-19(17)20/h3-6,8-12H,7,13-15H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -31.1,
+   "mean_uncertainty": 2.5,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -31.1,
+     "error": 2.5,
+     "doi": "10.1007/s10822-014-9738-y"
+    }
+   ]
+  },
+  "TI": {
+   "value": -26.8242927867884,
+   "error": 0.9065012567555002,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "SAMPL4",
+  "amine III"
+ ]
+}

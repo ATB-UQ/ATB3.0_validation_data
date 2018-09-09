@@ -1,0 +1,51 @@
+HEADER    UNCLASSIFIED                            09-May-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE UNL                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-04-26 13:45:36
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1  CL2 GGTU    0      -2.468   1.867  -0.289  1.00  0.00          Cl
+HETATM    2   C5 GGTU    0      -1.120   0.747  -0.133  1.00  0.00           C
+HETATM    3   C6 GGTU    0       0.214   1.213  -0.016  1.00  0.00           C
+HETATM    4   C8 GGTU    0       0.483   2.671  -0.062  1.00  0.00           C
+HETATM    5   H4 GGTU    0      -0.411   3.284  -0.257  1.00  0.00           H
+HETATM    6   O2 GGTU    0       1.567   3.211   0.085  1.00  0.00           O
+HETATM    7   C7 GGTU    0       1.225   0.231   0.123  1.00  0.00           C
+HETATM    8  CL1 GGTU    0       2.912   0.642   0.336  1.00  0.00          Cl
+HETATM    9   C2 GGTU    0       0.919  -1.129   0.106  1.00  0.00           C
+HETATM   10   C3 GGTU    0      -0.419  -1.547  -0.001  1.00  0.00           C
+HETATM   11   O4 GGTU    0      -0.718  -2.860   0.007  1.00  0.00           O
+HETATM   12   H8 GGTU    0       0.109  -3.340   0.220  1.00  0.00           H
+HETATM   13   C4 GGTU    0      -1.458  -0.608  -0.118  1.00  0.00           C
+HETATM   14   O3 GGTU    0      -2.748  -1.015  -0.282  1.00  0.00           O
+HETATM   15   C9 GGTU    0      -3.380  -1.576   0.890  1.00  0.00           C
+HETATM   16   H7 GGTU    0      -2.873  -2.493   1.203  1.00  0.00           H
+HETATM   17   H6 GGTU    0      -3.383  -0.848   1.708  1.00  0.00           H
+HETATM   18   H5 GGTU    0      -4.405  -1.800   0.592  1.00  0.00           H
+HETATM   19   O1 GGTU    0       1.848  -2.130   0.246  1.00  0.00           O
+HETATM   20   C1 GGTU    0       2.543  -2.499  -0.973  1.00  0.00           C
+HETATM   21   H3 GGTU    0       1.828  -2.764  -1.758  1.00  0.00           H
+HETATM   22   H2 GGTU    0       3.184  -1.681  -1.313  1.00  0.00           H
+HETATM   23   H1 GGTU    0       3.152  -3.366  -0.713  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3   13
+CONECT    3    2    4    7
+CONECT    4    3    5    6
+CONECT    5    4
+CONECT    6    4
+CONECT    7    3    8    9
+CONECT    8    7
+CONECT    9    7   10   19
+CONECT   10    9   11   13
+CONECT   11   10   12
+CONECT   12   11
+CONECT   13    2   10   14
+CONECT   14   13   15
+CONECT   15   14   16   17   18
+CONECT   16   15
+CONECT   17   15
+CONECT   18   15
+CONECT   19    9   20
+CONECT   20   19   21   22   23
+CONECT   21   20
+CONECT   22   20
+CONECT   23   20
+END

@@ -1,0 +1,39 @@
+HEADER    UNCLASSIFIED                            04-Jul-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE R                                     
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-06-14 13:42:07
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1  Cl1 OD8X    0       1.681   0.505   0.001  1.00  0.00          Cl
+HETATM    2   C4 OD8X    0      -0.048  -0.270  -0.000  1.00  0.00           C
+HETATM    3   C5 OD8X    0      -1.027   0.917  -0.001  1.00  0.00           C
+HETATM    4   H8 OD8X    0      -0.820   1.539   0.879  1.00  0.00           H
+HETATM    5   H7 OD8X    0      -0.821   1.538  -0.881  1.00  0.00           H
+HETATM    6   C6 OD8X    0      -2.512   0.521   0.001  1.00  0.00           C
+HETATM    7  H38 OD8X    0      -2.782  -0.062   0.888  1.00  0.00           H
+HETATM    8  H37 OD8X    0      -3.128   1.426   0.001  1.00  0.00           H
+HETATM    9  H36 OD8X    0      -2.784  -0.062  -0.886  1.00  0.00           H
+HETATM   10   C3 OD8X    0      -0.131  -1.118   1.267  1.00  0.00           C
+HETATM   11  H28 OD8X    0      -0.027  -0.503   2.166  1.00  0.00           H
+HETATM   12  H27 OD8X    0      -1.104  -1.622   1.304  1.00  0.00           H
+HETATM   13  H26 OD8X    0       0.646  -1.889   1.276  1.00  0.00           H
+HETATM   14   C2 OD8X    0      -0.130  -1.118  -1.267  1.00  0.00           C
+HETATM   15  H18 OD8X    0      -1.103  -1.621  -1.306  1.00  0.00           H
+HETATM   16  H17 OD8X    0      -0.025  -0.502  -2.166  1.00  0.00           H
+HETATM   17  H16 OD8X    0       0.646  -1.889  -1.275  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3   10   14
+CONECT    3    2    4    5    6
+CONECT    4    3
+CONECT    5    3
+CONECT    6    3    7    8    9
+CONECT    7    6
+CONECT    8    6
+CONECT    9    6
+CONECT   10    2   11   12   13
+CONECT   11   10
+CONECT   12   10
+CONECT   13   10
+CONECT   14    2   15   16   17
+CONECT   15   14
+CONECT   16   14
+CONECT   17   14
+END

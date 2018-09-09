@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 30214,
+ "Formula": "C4H9NO3",
+ "InChI": "InChI=1S/C4H9NO3/c1-3-4(2)8-5(6)7/h4H,3H2,1-2H3/t4-/m0/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -7.61,
+   "mean_uncertainty": 0.42,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -7.61,
+     "error": 0.42,
+     "doi": "10.1021/jp806724u"
+    }
+   ]
+  },
+  "TI": {
+   "value": -11.19950514598968,
+   "error": 1.322061043853876,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "nitrate",
+  "Mobley et al."
+ ]
+}

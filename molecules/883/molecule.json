@@ -1,0 +1,63 @@
+{
+ "ATB Molid": 883,
+ "Formula": "C4H8O",
+ "InChI": "InChI=1S/C4H8O/c1-3-4(2)5/h3H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -15.23,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -15.23,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -15.22,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": -15.52,
+     "error": null,
+     "doi": "10.1021/acs.jpcb.7b00272"
+    }
+   ]
+  },
+  "TI": {
+   "value": -9.879552027388307,
+   "error": 0.5489821806053589,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -14.56,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "hexane",
+     "value": -14.56,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -12.907359190287284,
+   "error": 1.1664538810903737,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "Shivakumar et al.",
+  "Gerber",
+  "ketone",
+  "Marenich et al.",
+  "Dodda et al."
+ ]
+}

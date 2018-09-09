@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 934,
+ "Formula": "C6H8O",
+ "InChI": "InChI=1S/C6H8O/c1-2-3-4-5-6-7/h2-6H,1H3/b3-2+,5-4+",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -19.39,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -19.39,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -20.493718712491233,
+   "error": 0.8646121351484143,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "aldehyde",
+  "Gerber"
+ ]
+}

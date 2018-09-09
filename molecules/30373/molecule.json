@@ -1,0 +1,32 @@
+{
+ "ATB Molid": 30373,
+ "Formula": "C13H16F3N3O4",
+ "InChI": "InChI=1S/C13H16F3N3O4/c1-3-5-17(6-4-2)12-10(18(20)21)7-9(13(14,15)16)8-11(12)19(22)23/h7-8H,3-6H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -13.81,
+   "mean_uncertainty": 4.18,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -13.81,
+     "error": 4.18,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -21.219728947710326,
+   "error": 1.378962459274156,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "fluoro",
+  "nitrophenyl",
+  "Marenich et al.",
+  "Mobley et al.",
+  "amine III",
+  "SAMPL1"
+ ]
+}

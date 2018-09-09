@@ -1,0 +1,58 @@
+{
+ "ATB Molid": 922,
+ "Formula": "C2H4O",
+ "InChI": "InChI=1S/C2H4O/c1-2-3/h2H,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -14.64,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -14.64,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -14.66,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -11.446652676754924,
+   "error": 0.6006036916841808,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -7.03,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -7.03,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -6.972735058090831,
+   "error": 0.972343188137929,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Gerber",
+  "aldehyde",
+  "Shivakumar et al.",
+  "Boulanger et al.",
+  "Dodda et al.",
+  "Marenich et al."
+ ]
+}

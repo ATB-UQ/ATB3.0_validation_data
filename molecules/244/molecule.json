@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 244,
+ "Formula": "C7H7NO",
+ "InChI": "InChI=1S/C7H8NO/c1-6(9)7-3-2-4-8-5-7/h2-5,7H,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -34.56,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -34.56,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -29.003254793561315,
+   "error": 0.9327853107451552,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Dodda et al.",
+  "aromatic amine II",
+  "ketone"
+ ]
+}

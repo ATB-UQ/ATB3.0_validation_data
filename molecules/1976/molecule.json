@@ -1,0 +1,31 @@
+{
+ "ATB Molid": 1976,
+ "Formula": "C5H9F3O3",
+ "InChI": "InChI=1S/C5H9F3O3/c1-9-5(10-2,11-3)4(6,7)8/h1-3H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -3.35,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -3.35,
+     "error": 0.84,
+     "doi": "10.1007/s10822-010-9350-8"
+    }
+   ]
+  },
+  "TI": {
+   "value": -13.391283058579267,
+   "error": 0.9368411028027434,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "ether",
+  "SAMPL2",
+  "Marenich et al.",
+  "fluoro",
+  "Mobley et al."
+ ]
+}

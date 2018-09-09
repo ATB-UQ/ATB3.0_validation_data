@@ -1,0 +1,35 @@
+{
+ "ATB Molid": 776,
+ "Formula": "C5H10",
+ "InChI": "InChI=1S/C5H10/c1-3-5-4-2/h3,5H,4H2,1-2H3/b5-3+",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 5.61,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 5.61,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": 5.59,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": 8.743059312082513,
+   "error": 0.6794677453009623,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Gerber",
+  "Shivakumar et al.",
+  "Marenich et al."
+ ]
+}

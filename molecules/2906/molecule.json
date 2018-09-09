@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 2906,
+ "Formula": "C7H7Cl",
+ "InChI": "InChI=1S/C7H7Cl/c8-6-7-4-2-1-3-5-7/h1-5H,6H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -8.08,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -8.08,
+     "error": 0.84,
+     "doi": "10.1021/jm070549+"
+    }
+   ]
+  },
+  "TI": {
+   "value": -12.045548203283637,
+   "error": 1.1547368894700305,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "Mobley et al.",
+  "chloro"
+ ]
+}

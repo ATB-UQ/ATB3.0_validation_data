@@ -1,0 +1,37 @@
+{
+ "ATB Molid": 1027,
+ "Formula": "C4H10N2",
+ "InChI": "InChI=1S/C4H10N2/c1-2-6-4-3-5-1/h5-6H,1-4H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -30.96,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -30.96,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -30.86,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -41.69231942369401,
+   "error": 0.7287684457440619,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "Shivakumar et al.",
+  "Mobley et al.",
+  "amine II",
+  "Gerber"
+ ]
+}

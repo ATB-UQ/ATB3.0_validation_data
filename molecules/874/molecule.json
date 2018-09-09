@@ -1,0 +1,63 @@
+{
+ "ATB Molid": 874,
+ "Formula": "C6H14O",
+ "InChI": "InChI=1S/C6H14O/c1-5(2)7-6(3)4/h5-6H,1-4H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -2.22,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -2.22,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -2.22,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -2.23,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -8.086439559472936,
+   "error": 0.8776774210806917,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -16.82,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -16.82,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -20.19736379688869,
+   "error": 1.1480494628674727,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Gerber",
+  "Boulanger et al.",
+  "Mobley et al.",
+  "ether",
+  "Marenich et al."
+ ]
+}

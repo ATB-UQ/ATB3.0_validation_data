@@ -1,0 +1,70 @@
+{
+ "ATB Molid": 876,
+ "Formula": "C4H8O",
+ "InChI": "InChI=1S/C4H8O/c1-2-4-5-3-1/h1-4H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -14.52,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -14.52,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -14.52,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -14.52,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": -16.07,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    }
+   ]
+  },
+  "TI": {
+   "value": -14.502755174537642,
+   "error": 1.4518459955141534,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -15.06,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -15.06,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -20.087273857793804,
+   "error": 1.2408491724235025,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "Shivakumar et al.",
+  "ether",
+  "Dodda et al.",
+  "Gerber",
+  "Boulanger et al.",
+  "Mobley et al."
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "ATB Molid": 1056,
+ "Formula": "C4H10S",
+ "InChI": "InChI=1S/C4H10S/c1-3-5-4-2/h3-4H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -6.11,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -6.11,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -5.98,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -5.99,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -7.832027807001584,
+   "error": 0.9463774340232409,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -17.7,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -17.7,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -17.21017041852313,
+   "error": 0.698172614211828,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Gerber",
+  "Shivakumar et al.",
+  "Boulanger et al.",
+  "Dodda et al.",
+  "thioether",
+  "Marenich et al."
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 18951,
+ "Formula": "C8H8Cl3O3PS",
+ "InChI": "InChI=1S/C8H10Cl3O3PS/c1-12-15(16,13-2)14-8-4-6(10)5(9)3-7(8)11/h3-4,15-16H,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -21.17,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -21.17,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -32.9649548579793,
+   "error": 1.4589858315028614,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "chlorophenyl",
+  "Marenich et al.",
+  "thiophosphate"
+ ]
+}

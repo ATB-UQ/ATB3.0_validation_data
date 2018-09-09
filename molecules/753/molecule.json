@@ -1,0 +1,57 @@
+{
+ "ATB Molid": 753,
+ "Formula": "C5H12",
+ "InChI": "InChI=1S/C5H12/c1-5(2,3)4/h1-4H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 10.5,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 10.5,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": 10.46,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": 12.448590415312982,
+   "error": 0.9307027782991704,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -10.38,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -10.38,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -9.659195359539051,
+   "error": 0.642181197751611,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Gerber",
+  "Shivakumar et al.",
+  "Boulanger et al.",
+  "Dodda et al.",
+  "Mobley et al.",
+  "Marenich et al."
+ ]
+}

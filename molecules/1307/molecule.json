@@ -1,0 +1,57 @@
+{
+ "ATB Molid": 1307,
+ "Formula": "CHCl3",
+ "InChI": "InChI=1S/CHCl3/c2-1(3)4/h1H",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -4.48,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -4.48,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -4.52,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -3.739677943566903,
+   "error": 1.3649499568909702,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -13.26,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "hexane",
+     "value": -13.26,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -18.99823392863686,
+   "error": 1.2520091227925838,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Shivakumar et al.",
+  "Boulanger et al.",
+  "Dodda et al.",
+  "Marenich et al.",
+  "chloro"
+ ]
+}

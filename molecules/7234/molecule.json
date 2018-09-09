@@ -1,0 +1,70 @@
+{
+ "ATB Molid": 7234,
+ "Formula": "C2H6S",
+ "InChI": "InChI=1S/C2H6S/c1-3-2/h1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -6.74,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -6.74,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -6.45,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": -6.44,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -6.44,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    }
+   ]
+  },
+  "TI": {
+   "value": -7.3148454052944265,
+   "error": 1.1702896655944386,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -12.76,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -12.76,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -12.244723292329208,
+   "error": 1.2378385621352366,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "thioether",
+  "Shivakumar et al.",
+  "Gerber",
+  "Mobley et al.",
+  "Marenich et al.",
+  "Dodda et al.",
+  "Boulanger et al."
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "ATB Molid": 4389,
+ "Formula": "C3H4N2",
+ "InChI": "InChI=1S/C3H5N2/c1-2-5-3-4-1/h1,3,5H,2H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -41.05,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -41.05,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -40.29,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -40.3,
+     "error": null,
+     "doi": "10.1021/ja00236a026"
+    }
+   ]
+  },
+  "TI": {
+   "value": -43.19023391846982,
+   "error": 0.7050960487577522,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "imidazole",
+  "Marenich et al.",
+  "aromatic amine II",
+  "Gerber"
+ ]
+}

@@ -1,0 +1,27 @@
+HEADER    NONAME 29-Sep-09                                              NONE   1
+TITLE                                                                   NONE   2
+AUTHOR    Apache                                                        NONE   3
+REVDAT   1  29-Sep-09     0                                             NONE   4
+COMPND    UNNAMED
+HETATM    1   C1 UNK     0       0.964  -0.705   0.000  1.00  0.00           C  
+HETATM    2   C2 UNK     0      -0.323  -1.108   0.000  1.00  0.00           C  
+HETATM    3   N1 UNK     0      -1.117   0.000   0.000  1.00  0.00           N  
+HETATM    4   C3 UNK     0      -0.323   1.108   0.000  1.00  0.00           C  
+HETATM    5   C4 UNK     0       0.964   0.704   0.000  1.00  0.00           C  
+HETATM    6   H1 UNK     0       1.834  -1.344   0.004  1.00  0.00           H  
+HETATM    7   H2 UNK     0      -0.665  -2.132   0.000  1.00  0.00           H  
+HETATM    8   H3 UNK     0      -2.087   0.000   0.000  1.00  0.00           H  
+HETATM    9   H4 UNK     0      -0.665   2.133   0.000  1.00  0.00           H  
+HETATM   10   H5 UNK     0       1.835   1.344   0.000  1.00  0.00           H  
+CONECT    1    5    2    6                                            
+CONECT    2    1    3    7                                            
+CONECT    3    2    4    8                                            
+CONECT    4    3    5    9                                            
+CONECT    5    1    4   10                                            
+CONECT    6    1                                                      
+CONECT    7    2                                                      
+CONECT    8    3                                                      
+CONECT    9    4                                                      
+CONECT   10    5                                                      
+MASTER        0    0    0    0    0    0    0    0   10    0   10    0
+END

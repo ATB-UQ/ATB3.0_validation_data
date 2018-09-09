@@ -1,0 +1,55 @@
+HEADER    UNCLASSIFIED                            16-Feb-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE UNL                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-02-05 15:47:32
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   H1 14DR    0      -5.442   0.516  -0.260  1.00  0.00           H
+HETATM    2   C1 14DR    0      -4.459   0.766   0.155  1.00  0.00           C
+HETATM    3   H3 14DR    0      -4.543   0.749   1.249  1.00  0.00           H
+HETATM    4   H2 14DR    0      -4.219   1.794  -0.144  1.00  0.00           H
+HETATM    5   C2 14DR    0      -3.386  -0.215  -0.330  1.00  0.00           C
+HETATM    6   H5 14DR    0      -3.669  -1.238  -0.045  1.00  0.00           H
+HETATM    7   H4 14DR    0      -3.350  -0.202  -1.429  1.00  0.00           H
+HETATM    8   C3 14DR    0      -1.991   0.100   0.230  1.00  0.00           C
+HETATM    9   H7 14DR    0      -1.711   1.124  -0.052  1.00  0.00           H
+HETATM   10   H6 14DR    0      -2.012   0.068   1.328  1.00  0.00           H
+HETATM   11   C4 14DR    0      -0.930  -0.886  -0.264  1.00  0.00           C
+HETATM   12   H9 14DR    0      -0.843  -0.841  -1.362  1.00  0.00           H
+HETATM   13   H8 14DR    0      -1.217  -1.909   0.005  1.00  0.00           H
+HETATM   14   O1 14DR    0       0.354  -0.686   0.328  1.00  0.00           O
+HETATM   15   C5 14DR    0       1.087   0.426  -0.177  1.00  0.00           C
+HETATM   16  H11 14DR    0       1.082   0.413  -1.279  1.00  0.00           H
+HETATM   17  H10 14DR    0       0.656   1.380   0.160  1.00  0.00           H
+HETATM   18   C6 14DR    0       2.517   0.273   0.337  1.00  0.00           C
+HETATM   19  H12 14DR    0       2.490   0.344   1.437  1.00  0.00           H
+HETATM   20   O2 14DR    0       3.024  -1.009  -0.046  1.00  0.00           O
+HETATM   21  H16 14DR    0       2.285  -1.624   0.114  1.00  0.00           H
+HETATM   22   C7 14DR    0       3.451   1.341  -0.215  1.00  0.00           C
+HETATM   23  H15 14DR    0       3.117   2.341   0.085  1.00  0.00           H
+HETATM   24  H14 14DR    0       3.484   1.296  -1.310  1.00  0.00           H
+HETATM   25  H13 14DR    0       4.466   1.191   0.167  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3    4    5
+CONECT    3    2
+CONECT    4    2
+CONECT    5    2    6    7    8
+CONECT    6    5
+CONECT    7    5
+CONECT    8    5    9   10   11
+CONECT    9    8
+CONECT   10    8
+CONECT   11    8   12   13   14
+CONECT   12   11
+CONECT   13   11
+CONECT   14   11   15
+CONECT   15   14   16   17   18
+CONECT   16   15
+CONECT   17   15
+CONECT   18   15   19   20   22
+CONECT   19   18
+CONECT   20   18   21
+CONECT   21   20
+CONECT   22   18   23   24   25
+CONECT   23   22
+CONECT   24   22
+CONECT   25   22
+END

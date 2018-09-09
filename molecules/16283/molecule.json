@@ -1,0 +1,31 @@
+{
+ "ATB Molid": 16283,
+ "Formula": "C2H3Cl",
+ "InChI": "InChI=1S/C2H3Cl/c1-2-3/h2H,1H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -2.47,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -2.47,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": 1.4259449344786361,
+   "error": 1.3623795762927444,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "chloro",
+  "Boulanger et al.",
+  "Shivakumar et al.",
+  "Mobley et al."
+ ]
+}

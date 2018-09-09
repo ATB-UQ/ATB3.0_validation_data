@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 30824,
+ "Formula": "C6H8N2O2",
+ "InChI": "InChI=1S/C6H8N2O2/c1-4-3-8(2)6(10)7-5(4)9/h3H,1-2H3,(H,7,9,10)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -43.51,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -43.51,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -53.382811752084585,
+   "error": 1.198135068541782,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "urea",
+  "Marenich et al.",
+  "amide"
+ ]
+}

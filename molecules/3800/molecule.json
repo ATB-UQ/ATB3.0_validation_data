@@ -1,0 +1,32 @@
+{
+ "ATB Molid": 3800,
+ "Formula": "CCl4",
+ "InChI": "InChI=1S/CCl4/c2-1(3,4)5",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 0.33,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 0.33,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": 2.129615787385788,
+   "error": 1.1168283383543558,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "chloro",
+  "Dodda et al.",
+  "Shivakumar et al.",
+  "Marenich et al.",
+  "Mobley et al."
+ ]
+}

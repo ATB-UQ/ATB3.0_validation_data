@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 3793,
+ "Formula": "C5H11Cl",
+ "InChI": "InChI=1S/C5H11Cl/c1-3-4-5(2)6/h5H,3-4H2,1-2H3/t5-/m1/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 0.29,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 0.29,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -3.8288599190686954,
+   "error": 1.221649085195088,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "chloro"
+ ]
+}

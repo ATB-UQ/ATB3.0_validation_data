@@ -1,0 +1,41 @@
+HEADER    UNCLASSIFIED                            09-May-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE LIG                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-04-26 13:45:36
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1  CL5 _WPT    0      -1.647  -1.475  -1.570  1.00  0.00          Cl
+HETATM    2   C6 _WPT    0      -1.286  -1.068   0.170  1.00  0.00           C
+HETATM    3   H6 _WPT    0      -2.109  -1.512   0.729  1.00  0.00           H
+HETATM    4   C5 _WPT    0       0.031  -1.743   0.600  1.00  0.00           C
+HETATM    5  CL4 _WPT    0       0.028  -1.845   2.434  1.00  0.00          Cl
+HETATM    6   H5 _WPT    0       0.051  -2.778   0.262  1.00  0.00           H
+HETATM    7   C4 _WPT    0       1.323  -1.018   0.177  1.00  0.00           C
+HETATM    8   H4 _WPT    0       2.160  -1.424   0.745  1.00  0.00           H
+HETATM    9  CL3 _WPT    0       1.717  -1.416  -1.558  1.00  0.00          Cl
+HETATM   10   C3 _WPT    0       1.239   0.496   0.434  1.00  0.00           C
+HETATM   11   H3 _WPT    0       1.221   0.632   1.519  1.00  0.00           H
+HETATM   12  CL2 _WPT    0       2.762   1.311  -0.107  1.00  0.00          Cl
+HETATM   13   C2 _WPT    0      -0.023   1.145  -0.168  1.00  0.00           C
+HETATM   14  CL1 _WPT    0      -0.058   2.913   0.247  1.00  0.00          Cl
+HETATM   15   H2 _WPT    0      -0.020   1.086  -1.257  1.00  0.00           H
+HETATM   16   C1 _WPT    0      -1.261   0.448   0.431  1.00  0.00           C
+HETATM   17   CL _WPT    0      -2.812   1.207  -0.112  1.00  0.00          Cl
+HETATM   18   H1 _WPT    0      -1.247   0.585   1.515  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3    4   16
+CONECT    3    2
+CONECT    4    2    5    6    7
+CONECT    5    4
+CONECT    6    4
+CONECT    7    4    8    9   10
+CONECT    8    7
+CONECT    9    7
+CONECT   10    7   11   12   13
+CONECT   11   10
+CONECT   12   10
+CONECT   13   10   14   15   16
+CONECT   14   13
+CONECT   15   13
+CONECT   16    2   13   17   18
+CONECT   17   16
+CONECT   18   16
+END

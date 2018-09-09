@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 30224,
+ "Formula": "C2H6O3S",
+ "InChI": "InChI=1S/C2H8O3S/c1-5-6(2,3)4/h3-4H,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -20.38,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -20.38,
+     "error": 2.51,
+     "doi": "10.1139/v98-084"
+    }
+   ]
+  },
+  "TI": {
+   "value": -29.497989305859896,
+   "error": 0.8479036636953049,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "sulfonate"
+ ]
+}

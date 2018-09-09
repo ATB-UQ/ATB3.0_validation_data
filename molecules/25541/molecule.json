@@ -1,0 +1,62 @@
+{
+ "ATB Molid": 25541,
+ "Formula": "C6H5I",
+ "InChI": "InChI=1S/C6H5I/c7-6-4-2-1-3-5-6/h1-5H",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -7.28,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -7.28,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -12.253084558590913,
+   "error": 1.059676061989116,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -26.19,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -26.19,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -26.15,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "heptane",
+     "value": -26.23,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -32.818683498174835,
+   "error": 1.3827226633818528,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Shivakumar et al.",
+  "iodophenyl",
+  "Dodda et al.",
+  "Marenich et al.",
+  "Mobley et al."
+ ]
+}

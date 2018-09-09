@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 30173,
+ "Formula": "C8H4F6",
+ "InChI": "InChI=1S/C8H4F6/c9-7(10,11)5-3-1-2-4-6(5)8(12,13)14/h1-4H",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 4.48,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 4.48,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": 2.2991695349414405,
+   "error": 1.1342242654421768,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "fluoro"
+ ]
+}

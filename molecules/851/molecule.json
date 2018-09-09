@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 851,
+ "Formula": "C6H14O",
+ "InChI": "InChI=1S/C6H14O/c1-3-5-6(7)4-2/h6-7H,3-5H2,1-2H3/t6-/m1/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -17.05,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -17.05,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -19.208638163817437,
+   "error": 1.2410828099988573,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Gerber",
+  "alcohol",
+  "Boulanger et al."
+ ]
+}

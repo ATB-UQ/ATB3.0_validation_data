@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 30194,
+ "Formula": "C8H16",
+ "InChI": "InChI=1S/C8H16/c1-7-3-5-8(2)6-4-7/h7-8H,3-6H2,1-2H3/t7-,8-",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 8.83,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 8.83,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": 7.196023218176541,
+   "error": 0.8720682832294439,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "cyclohexane",
+  "Dodda et al.",
+  "Mobley et al."
+ ]
+}

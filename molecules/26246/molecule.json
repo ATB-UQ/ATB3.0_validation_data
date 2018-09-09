@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 26246,
+ "Formula": "C2F4",
+ "InChI": "InChI=1S/C2F4/c3-1(4)2(5)6",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 5.77,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 5.77,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    }
+   ]
+  },
+  "TI": {
+   "value": 11.907005365939993,
+   "error": 0.9833122074965509,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "fluoro",
+  "Shivakumar et al.",
+  "Boulanger et al."
+ ]
+}

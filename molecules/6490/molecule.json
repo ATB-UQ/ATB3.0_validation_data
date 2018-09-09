@@ -1,0 +1,62 @@
+{
+ "ATB Molid": 6490,
+ "Formula": "C2H6S2",
+ "InChI": "InChI=1S/C2H6S2/c1-3-4-2/h1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -7.66,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -7.66,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -7.66,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -6.44,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    }
+   ]
+  },
+  "TI": {
+   "value": -8.240099967112645,
+   "error": 0.7660692933175468,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -20.25,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -20.25,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -19.193219770141948,
+   "error": 1.2394627551739836,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "sulfide",
+  "Marenich et al.",
+  "Mobley et al.",
+  "Shivakumar et al."
+ ]
+}

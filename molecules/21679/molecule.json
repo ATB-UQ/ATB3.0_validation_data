@@ -1,0 +1,32 @@
+{
+ "ATB Molid": 21679,
+ "Formula": "C14H15N5O6S",
+ "InChI": "InChI=1S/C14H15N5O6S/c1-8-15-12(18-14(16-8)25-3)17-13(21)19-26(22,23)10-7-5-4-6-9(10)11(20)24-2/h4-7H,1-3H3,(H2,17,19,21)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -64.85,
+   "mean_uncertainty": 4.18,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -64.85,
+     "error": 4.18,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -100.3776768078585,
+   "error": 1.298591963160305,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "phenoxy",
+  "sulfonyl",
+  "ester",
+  "aromatic amine II",
+  "urea",
+  "Marenich et al."
+ ]
+}

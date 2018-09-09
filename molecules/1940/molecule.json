@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 1940,
+ "Formula": "C7H13N3O3S",
+ "InChI": "InChI=1S/C7H13N3O3S/c1-8-7(12)13-9-5(14-4)6(11)10(2)3/h1-4H3,(H,8,12)/b9-5-",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -43.0,
+   "mean_uncertainty": 8.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -43.0,
+     "error": 8.0,
+     "doi": "10.1021/jp806724u"
+    }
+   ]
+  },
+  "TI": {
+   "value": -74.12386154600688,
+   "error": 1.413830226209933,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "amide",
+  "thioether",
+  "SAMPL1",
+  "oxime"
+ ]
+}

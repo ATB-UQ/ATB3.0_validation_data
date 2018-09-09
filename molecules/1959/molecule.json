@@ -1,0 +1,39 @@
+{
+ "ATB Molid": 1959,
+ "Formula": "C11H18N4O2",
+ "InChI": "InChI=1S/C11H19N4O2/c1-7-8(2)12-10(14(3)4)13-9(7)17-11(16)15(5)6/h7H,1-6H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -39.37,
+   "mean_uncertainty": 8.08,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -39.37,
+     "error": 8.08,
+     "doi": "10.1021/jp806724u"
+    },
+    {
+     "solvent_name": "water",
+     "value": -39.33,
+     "error": 4.18,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -64.4811210320743,
+   "error": 1.3657189193799804,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "aromatic amine II",
+  "ether",
+  "SAMPL1",
+  "amide",
+  "Mobley et al.",
+  "amine III",
+  "Marenich et al."
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 870,
+ "Formula": "C5H12O",
+ "InChI": "InChI=1S/C5H12O/c1-3-5-6-4-2/h3-5H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -7.59,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -7.59,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -7.061964644395379,
+   "error": 1.3069736849316795,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Gerber",
+  "ether"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "ATB Molid": 1030,
+ "Formula": "C5H6N2",
+ "InChI": "InChI=1S/C5H6N2/c1-5-4-6-2-3-7-5/h2-4H,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -23.05,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -23.05,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -23.09,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": -23.3,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -23.3,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    }
+   ]
+  },
+  "TI": {
+   "value": -21.707403176599275,
+   "error": 0.9638716176539017,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -19.66,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "octane",
+     "value": -19.66,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -25.30656991699452,
+   "error": 1.498472958492967,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Gerber",
+  "Boulanger et al.",
+  "Dodda et al.",
+  "Mobley et al.",
+  "Marenich et al.",
+  "aromatic amine II",
+  "Shivakumar et al."
+ ]
+}

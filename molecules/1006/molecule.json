@@ -1,0 +1,64 @@
+{
+ "ATB Molid": 1006,
+ "Formula": "C4H7N",
+ "InChI": "InChI=1S/C4H7N/c1-2-3-4-5/h2-3H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -15.25,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -15.25,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": -15.23,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -14.73,
+     "error": null,
+     "doi": "10.1021/acs.jpcb.7b00272"
+    }
+   ]
+  },
+  "TI": {
+   "value": -23.170060081006085,
+   "error": 1.2047932908972514,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -14.56,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -14.56,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -15.590575251289195,
+   "error": 1.3089888158231777,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "nitrile",
+  "Boulanger et al.",
+  "Dodda et al.",
+  "Marenich et al.",
+  "Shivakumar et al.",
+  "Mobley et al.",
+  "Gerber"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 1983,
+ "Formula": "C10H19O6PS2",
+ "InChI": "InChI=1S/C10H21O6PS2/c1-5-15-9(11)7-8(10(12)16-6-2)19-17(18,13-3)14-4/h8,17-18H,5-7H2,1-4H3/t8-/m0/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -34.1,
+   "mean_uncertainty": 0.9,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -34.1,
+     "error": 0.9,
+     "doi": "10.1021/jp806724u"
+    }
+   ]
+  },
+  "TI": {
+   "value": -56.52387296300351,
+   "error": 1.3192214730770866,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "SAMPL1",
+  "thiophosphate",
+  "ester"
+ ]
+}

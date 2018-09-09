@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 1263,
+ "Formula": "C2H6O4S",
+ "InChI": "InChI=1S/C2H6O4S/c1-5-7(3,4)6-2/h1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -21.34,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -21.34,
+     "error": 2.51,
+     "doi": "10.1139/v78-385"
+    }
+   ]
+  },
+  "TI": {
+   "value": -27.774545855885282,
+   "error": 1.282027724761737,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "Mobley et al.",
+  "sulfate"
+ ]
+}

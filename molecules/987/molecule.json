@@ -1,0 +1,56 @@
+{
+ "ATB Molid": 987,
+ "Formula": "C4H5N",
+ "InChI": "InChI=1S/C4H5N/c1-2-4-5-3-1/h1-5H",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -20.0,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -20.0,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -20.0,
+     "error": null,
+     "doi": "10.1021/ja00236a026"
+    }
+   ]
+  },
+  "TI": {
+   "value": -27.43893537173467,
+   "error": 1.2263738370194956,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -15.77,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -15.77,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -16.004625995560968,
+   "error": 1.2856530087088758,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "Mobley et al.",
+  "Gerber",
+  "aromatic amine II",
+  "Marenich et al."
+ ]
+}

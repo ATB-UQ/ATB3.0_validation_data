@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 30259,
+ "Formula": "C3F6",
+ "InChI": "InChI=1S/C3F6/c4-1(2(5)6)3(7,8)9",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 12.26,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 12.26,
+     "error": 2.51,
+     "doi": "10.1021/cr60306a003"
+    }
+   ]
+  },
+  "TI": {
+   "value": 13.197301567545512,
+   "error": 1.4719839545212006,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "fluoro",
+  "Mobley et al."
+ ]
+}

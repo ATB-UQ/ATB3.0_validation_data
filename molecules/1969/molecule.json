@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 1969,
+ "Formula": "H2O2",
+ "InChI": "InChI=1S/H2O2/c1-2/h1-2H",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -35.9,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -35.9,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -11.231907458416828,
+   "error": 0.4429754129380125,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "hydrogen peroxide",
+  "Marenich et al."
+ ]
+}

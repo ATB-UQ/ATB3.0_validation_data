@@ -1,0 +1,57 @@
+HEADER    UNCLASSIFIED                            23-Jun-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE LIG                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-06-14 13:42:07
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   O1 OEUK    0      -3.150   1.564   0.001  1.00  0.00           O
+HETATM    2   C2 OEUK    0      -2.670   0.441   0.008  1.00  0.00           C
+HETATM    3   O2 OEUK    0      -1.280   0.364   0.014  1.00  0.00           O
+HETATM    4   N1 OEUK    0      -0.766  -0.961   0.006  1.00  0.00           N
+HETATM    5   C1 OEUK    0       0.511  -1.000  -0.000  1.00  0.00           C
+HETATM    6   H1 OEUK    0       0.874  -2.029  -0.011  1.00  0.00           H
+HETATM    7   C7 OEUK    0       1.535   0.128  -0.003  1.00  0.00           C
+HETATM    8   S1 OEUK    0       3.167  -0.808   0.009  1.00  0.00           S
+HETATM    9   C6 OEUK    0       4.425   0.518  -0.011  1.00  0.00           C
+HETATM   10  H13 OEUK    0       4.359   1.126  -0.916  1.00  0.00           H
+HETATM   11  H12 OEUK    0       4.361   1.152   0.876  1.00  0.00           H
+HETATM   12  H11 OEUK    0       5.390   0.004  -0.004  1.00  0.00           H
+HETATM   13   C4 OEUK    0       1.408   0.975  -1.286  1.00  0.00           C
+HETATM   14   H7 OEUK    0       1.523   0.355  -2.180  1.00  0.00           H
+HETATM   15   H6 OEUK    0       0.431   1.464  -1.318  1.00  0.00           H
+HETATM   16   H5 OEUK    0       2.176   1.755  -1.303  1.00  0.00           H
+HETATM   17   C3 OEUK    0       1.404   0.996   1.264  1.00  0.00           C
+HETATM   18   H4 OEUK    0       1.501   0.390   2.169  1.00  0.00           H
+HETATM   19   H3 OEUK    0       0.434   1.498   1.278  1.00  0.00           H
+HETATM   20   H2 OEUK    0       2.182   1.766   1.278  1.00  0.00           H
+HETATM   21   N2 OEUK    0      -3.332  -0.727   0.023  1.00  0.00           N
+HETATM   22  H14 OEUK    0      -2.779  -1.574  -0.012  1.00  0.00           H
+HETATM   23   C5 OEUK    0      -4.784  -0.796  -0.029  1.00  0.00           C
+HETATM   24  H10 OEUK    0      -5.189   0.179   0.245  1.00  0.00           H
+HETATM   25   H9 OEUK    0      -5.137  -1.057  -1.034  1.00  0.00           H
+HETATM   26   H8 OEUK    0      -5.144  -1.546   0.680  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3   21
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6    7
+CONECT    6    5
+CONECT    7    5    8   13   17
+CONECT    8    7    9
+CONECT    9    8   10   11   12
+CONECT   10    9
+CONECT   11    9
+CONECT   12    9
+CONECT   13    7   14   15   16
+CONECT   14   13
+CONECT   15   13
+CONECT   16   13
+CONECT   17    7   18   19   20
+CONECT   18   17
+CONECT   19   17
+CONECT   20   17
+CONECT   21    2   22   23
+CONECT   22   21
+CONECT   23   21   24   25   26
+CONECT   24   23
+CONECT   25   23
+CONECT   26   23
+END

@@ -1,0 +1,38 @@
+{
+ "ATB Molid": 1037,
+ "Formula": "C5H12O2",
+ "InChI": "InChI=1S/C5H12O2/c1-2-4-7-5-3-6/h6H,2-5H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -26.78,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -26.78,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -26.84,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -26.19626798467029,
+   "error": 1.1058940476286034,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "alcohol",
+  "ether",
+  "Dodda et al.",
+  "Boulanger et al.",
+  "Gerber",
+  "Mobley et al."
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "ATB Molid": 30187,
+ "Formula": "C8H16O2",
+ "InChI": "InChI=1S/C8H16O2/c1-3-5-6-7-8(9)10-4-2/h3-7H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -9.33,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -9.33,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -7.07,
+     "error": null,
+     "doi": "10.1021/acs.jpcb.7b00272"
+    }
+   ]
+  },
+  "TI": {
+   "value": -12.332846523291446,
+   "error": 1.4262335775575066,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "Mobley et al.",
+  "Dodda et al.",
+  "ester"
+ ]
+}

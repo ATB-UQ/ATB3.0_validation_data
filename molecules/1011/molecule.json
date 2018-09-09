@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 1011,
+ "Formula": "C2H7N3",
+ "InChI": "InChI=1S/C2H7N3/c1-5-2(3)4/h1H3,(H4,3,4,5)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -46.8,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -46.8,
+     "error": null,
+     "doi": "10.1021/bi00507a030"
+    }
+   ]
+  },
+  "TI": {
+   "value": -58.27155719739959,
+   "error": 1.6694200422689662,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "guanidine",
+  "Gerber"
+ ]
+}

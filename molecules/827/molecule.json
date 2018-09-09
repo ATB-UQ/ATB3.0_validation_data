@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 827,
+ "Formula": "C12H8",
+ "InChI": "InChI=1S/C12H8/c1-3-9-4-2-6-11-8-7-10(5-1)12(9)11/h1-8H",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -13.18,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -13.18,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    }
+   ]
+  },
+  "TI": {
+   "value": -12.292694060338826,
+   "error": 0.6316918893580301,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "phenyl",
+  "Shivakumar et al."
+ ]
+}

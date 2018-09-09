@@ -1,0 +1,49 @@
+{
+ "ATB Molid": 3613,
+ "Formula": "H2S",
+ "InChI": "InChI=1S/H2S/h1H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -2.93,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -2.93,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -9.129251478456808,
+   "error": 0.9627394631393872,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -3.01,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -3.01,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -4.810213994896958,
+   "error": 0.5551462794772155,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "Mobley et al.",
+  "Shivakumar et al.",
+  "thiol"
+ ]
+}

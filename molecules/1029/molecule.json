@@ -1,0 +1,38 @@
+{
+ "ATB Molid": 1029,
+ "Formula": "C6H14N2",
+ "InChI": "InChI=1S/C6H14N2/c1-7-3-5-8(2)6-4-7/h3-6H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -31.71,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -31.71,
+     "error": 2.51,
+     "doi": "10.1139/v91-274"
+    },
+    {
+     "solvent_name": "water",
+     "value": -31.7,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -31.316617122640242,
+   "error": 1.127014033886526,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Gerber",
+  "Shivakumar et al.",
+  "Boulanger et al.",
+  "Mobley et al.",
+  "Marenich et al.",
+  "amine III"
+ ]
+}

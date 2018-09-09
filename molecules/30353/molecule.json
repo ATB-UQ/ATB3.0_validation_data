@@ -1,0 +1,38 @@
+{
+ "ATB Molid": 30353,
+ "Formula": "C14H17ClNO4PS2",
+ "InChI": "InChI=1S/C14H19ClNO4PS2/c1-3-19-21(22,20-4-2)23-12(9-15)16-13(17)10-7-5-6-8-11(10)14(16)18/h5-8,12,21-22H,3-4,9H2,1-2H3/t12-/m0/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -24.02,
+   "mean_uncertainty": 8.08,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -24.02,
+     "error": 8.08,
+     "doi": "10.1021/jp806724u"
+    },
+    {
+     "solvent_name": "water",
+     "value": -23.85,
+     "error": 4.18,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -54.7830400396776,
+   "error": 1.064122836527388,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "SAMPL1",
+  "thiophosphate",
+  "Mobley et al.",
+  "chloro",
+  "Marenich et al.",
+  "amide"
+ ]
+}

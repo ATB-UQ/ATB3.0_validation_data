@@ -1,0 +1,32 @@
+{
+ "ATB Molid": 7502,
+ "Formula": "C2HBrClF3",
+ "InChI": "InChI=1S/C2HBrClF3/c3-1(4)2(5,6)7/h1H/t1-/m0/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -0.46,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -0.46,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -0.9550316246211079,
+   "error": 0.874670181826473,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Boulanger et al.",
+  "bromo",
+  "chloro",
+  "Dodda et al.",
+  "fluoro"
+ ]
+}

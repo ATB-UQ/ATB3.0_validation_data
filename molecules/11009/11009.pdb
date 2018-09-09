@@ -1,0 +1,35 @@
+HEADER    UNCLASSIFIED                            06-Feb-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE SBT                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-02-05 15:47:32
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   H1 SBT     0       1.758   1.778   0.397  1.00  0.00           H
+HETATM    2   C1 SBT     0       1.768   0.758  -0.006  1.00  0.00           C
+HETATM    3   H3 SBT     0       2.628   0.228   0.417  1.00  0.00           H
+HETATM    4   H2 SBT     0       1.907   0.828  -1.093  1.00  0.00           H
+HETATM    5   C2 SBT     0       0.469   0.020   0.325  1.00  0.00           C
+HETATM    6   H4 SBT     0       0.354  -0.033   1.416  1.00  0.00           H
+HETATM    7   OH SBT     0       0.551  -1.358  -0.081  1.00  0.00           O
+HETATM    8  H10 SBT     0       0.661  -1.364  -1.047  1.00  0.00           H
+HETATM    9   C3 SBT     0      -0.767   0.709  -0.269  1.00  0.00           C
+HETATM   10   H6 SBT     0      -0.776   1.755   0.066  1.00  0.00           H
+HETATM   11   H5 SBT     0      -0.658   0.739  -1.364  1.00  0.00           H
+HETATM   12   C4 SBT     0      -2.087   0.029   0.107  1.00  0.00           C
+HETATM   13   H9 SBT     0      -2.246   0.051   1.192  1.00  0.00           H
+HETATM   14   H8 SBT     0      -2.939   0.530  -0.367  1.00  0.00           H
+HETATM   15   H7 SBT     0      -2.087  -1.019  -0.210  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3    4    5
+CONECT    3    2
+CONECT    4    2
+CONECT    5    2    6    7    9
+CONECT    6    5
+CONECT    7    5    8
+CONECT    8    7
+CONECT    9    5   10   11   12
+CONECT   10    9
+CONECT   11    9
+CONECT   12    9   13   14   15
+CONECT   13   12
+CONECT   14   12
+CONECT   15   12
+END

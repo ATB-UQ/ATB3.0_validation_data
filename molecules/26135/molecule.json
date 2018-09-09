@@ -1,0 +1,31 @@
+{
+ "ATB Molid": 26135,
+ "Formula": "C14H9NO3",
+ "InChI": "InChI=1S/C14H9NO3/c15-9-5-6-10(16)12-11(9)13(17)7-3-1-2-4-8(7)14(12)18/h1-6,16H,15H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -39.9,
+   "mean_uncertainty": 1.2,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -39.9,
+     "error": 1.2,
+     "doi": "10.1007/s10822-014-9738-y"
+    }
+   ]
+  },
+  "TI": {
+   "value": -48.4274733357182,
+   "error": 0.5737088030743163,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "SAMPL4",
+  "phenol",
+  "Mobley et al.",
+  "ketone",
+  "aniline"
+ ]
+}

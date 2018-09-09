@@ -1,0 +1,37 @@
+{
+ "ATB Molid": 30249,
+ "Formula": "C5H6S",
+ "InChI": "InChI=1S/C5H6S/c1-5-3-2-4-6-5/h2-4H,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -5.19,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -5.19,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": -5.77,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -5.141980222412118,
+   "error": 0.8517260381049361,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Gerber",
+  "thiophene",
+  "Boulanger et al.",
+  "Mobley et al."
+ ]
+}

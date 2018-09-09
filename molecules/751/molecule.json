@@ -1,0 +1,75 @@
+{
+ "ATB Molid": 751,
+ "Formula": "C5H12",
+ "InChI": "InChI=1S/C5H12/c1-3-5-4-2/h3-5H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 9.62,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 9.62,
+     "error": 0.84,
+     "doi": "10.1039/P29900000291"
+    },
+    {
+     "solvent_name": "water",
+     "value": 9.75,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": 9.76,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": 9.683464740714461,
+   "error": 0.9042101327051193,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -13.666666666666666,
+   "mean_uncertainty": 1.2844021523218065,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -14.64,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -12.34,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "pentane",
+     "value": -14.02,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -14.080576356798367,
+   "error": 0.8028099963985759,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Marenich et al.",
+  "Shivakumar et al.",
+  "Dodda et al.",
+  "Gerber",
+  "Boulanger et al."
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "ATB Molid": 1032,
+ "Formula": "C8H12N2",
+ "InChI": "InChI=1S/C8H12N2/c1-7(2)5-8-6-9-3-4-10-8/h3-4,6-7H,5H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -21.09,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -21.09,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -21.11,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -18.439135717886327,
+   "error": 1.239137652275538,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "aromatic amine II",
+  "Dodda et al.",
+  "Gerber",
+  "Mobley et al."
+ ]
+}

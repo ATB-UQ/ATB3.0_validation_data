@@ -1,0 +1,50 @@
+{
+ "ATB Molid": 1160,
+ "Formula": "CH2O",
+ "InChI": "InChI=1S/CH2O/c1-2/h1H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -11.51,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -11.51,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -6.68407884283264,
+   "error": 0.7695440076002945,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -4.14,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -4.14,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -4.635112096856722,
+   "error": 0.6139510392987776,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Marenich et al.",
+  "Mobley et al.",
+  "Boulanger et al.",
+  "aldehyde"
+ ]
+}

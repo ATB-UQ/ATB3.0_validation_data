@@ -1,0 +1,51 @@
+{
+ "ATB Molid": 30206,
+ "Formula": "C3H4Cl2F2O",
+ "InChI": "InChI=1S/C3H4Cl2F2O/c1-8-3(6,7)2(4)5/h2H,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -4.69,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -4.69,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -8.42407023895823,
+   "error": 1.0803269442364123,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -16.32,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -16.32,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -27.102994772097784,
+   "error": 0.9834049369825922,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "ether",
+  "Boulanger et al.",
+  "Dodda et al.",
+  "Marenich et al.",
+  "chloro"
+ ]
+}

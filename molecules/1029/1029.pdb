@@ -1,0 +1,51 @@
+HEADER    NONAME 29-Sep-09                                              NONE   1
+TITLE                                                                   NONE   2
+AUTHOR    Apache                                                        NONE   3
+REVDAT   1  29-Sep-09     0                                             NONE   4
+COMPND    UNNAMED
+HETATM    1   C1 UNK     0       2.781   0.000   0.061  1.00  0.00           C  
+HETATM    2   N1 UNK     0       1.391   0.000  -0.413  1.00  0.00           N  
+HETATM    3   C2 UNK     0       0.744   1.179   0.176  1.00  0.00           C  
+HETATM    4   C3 UNK     0      -0.744   1.179  -0.176  1.00  0.00           C  
+HETATM    5   N2 UNK     0      -1.391   0.000   0.413  1.00  0.00           N  
+HETATM    6   C4 UNK     0      -0.744  -1.179  -0.176  1.00  0.00           C  
+HETATM    7   C5 UNK     0       0.744  -1.179   0.176  1.00  0.00           C  
+HETATM    8   C6 UNK     0      -2.781   0.000  -0.061  1.00  0.00           C  
+HETATM    9   H1 UNK     0       2.794  -0.054   1.150  1.00  0.00           H  
+HETATM   10   H2 UNK     0       3.306  -0.862  -0.351  1.00  0.00           H  
+HETATM   11   H3 UNK     0       3.275   0.916  -0.263  1.00  0.00           H  
+HETATM   12   H4 UNK     0       0.861   1.154   1.259  1.00  0.00           H  
+HETATM   13   H5 UNK     0       1.210   2.083  -0.217  1.00  0.00           H  
+HETATM   14   H6 UNK     0      -1.210   2.083   0.217  1.00  0.00           H  
+HETATM   15   H7 UNK     0      -0.861   1.154  -1.259  1.00  0.00           H  
+HETATM   16   H8 UNK     0      -1.210  -2.083   0.217  1.00  0.00           H  
+HETATM   17   H9 UNK     0      -0.861  -1.154  -1.259  1.00  0.00           H  
+HETATM   18  H10 UNK     0       1.210  -2.083  -0.217  1.00  0.00           H  
+HETATM   19  H11 UNK     0       0.861  -1.154   1.259  1.00  0.00           H  
+HETATM   20  H12 UNK     0      -2.794  -0.054  -1.150  1.00  0.00           H  
+HETATM   21  H13 UNK     0      -3.306  -0.862   0.351  1.00  0.00           H  
+HETATM   22  H14 UNK     0      -3.275   0.916   0.263  1.00  0.00           H  
+CONECT    1    2    9   10   11                                       
+CONECT    2    1    7    3                                            
+CONECT    3    2    4   12   13                                       
+CONECT    4    3    5   14   15                                       
+CONECT    5    4    6    8                                            
+CONECT    6    5    7   16   17                                       
+CONECT    7    2    6   18   19                                       
+CONECT    8    5   20   21   22                                       
+CONECT    9    1                                                      
+CONECT   10    1                                                      
+CONECT   11    1                                                      
+CONECT   12    3                                                      
+CONECT   13    3                                                      
+CONECT   14    4                                                      
+CONECT   15    4                                                      
+CONECT   16    6                                                      
+CONECT   17    6                                                      
+CONECT   18    7                                                      
+CONECT   19    7                                                      
+CONECT   20    8                                                      
+CONECT   21    8                                                      
+CONECT   22    8                                                      
+MASTER        0    0    0    0    0    0    0    0   22    0   22    0
+END

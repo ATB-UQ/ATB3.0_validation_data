@@ -1,0 +1,64 @@
+{
+ "ATB Molid": 919,
+ "Formula": "C9H18O",
+ "InChI": "InChI=1S/C9H18O/c1-3-5-7-9(10)8-6-4-2/h3-8H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -11.05,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -11.05,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -11.17,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -11.18,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -8.679912209026343,
+   "error": 1.4195641416591818,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -27.03,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -27.03,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -26.868382862114686,
+   "error": 0.9246266751230617,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "Mobley et al.",
+  "Dodda et al.",
+  "Boulanger et al.",
+  "Gerber",
+  "Shivakumar et al.",
+  "ketone"
+ ]
+}

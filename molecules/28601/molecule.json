@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 28601,
+ "Formula": "C8H18",
+ "InChI": "InChI=1S/C8H18/c1-7(2,3)8(4,5)6/h1-6H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 5.15,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 5.15,
+     "error": null,
+     "doi": "10.1021/acs.jctc.8b00172"
+    }
+   ]
+  },
+  "TI": {
+   "value": 11.889531151574785,
+   "error": 1.387799349425497,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "alkane",
+  "Boulanger et al."
+ ]
+}

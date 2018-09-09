@@ -1,0 +1,37 @@
+{
+ "ATB Molid": 1868,
+ "Formula": "C2Cl6",
+ "InChI": "InChI=1S/C2Cl6/c3-1(4,5)2(6,7)8",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -2.68,
+   "mean_uncertainty": 0.42,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -2.68,
+     "error": 0.42,
+     "doi": "10.1007/s10822-010-9350-8"
+    },
+    {
+     "solvent_name": "water",
+     "value": -5.86,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -1.4269556647018076,
+   "error": 0.8560712949997372,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "Mobley et al.",
+  "SAMPL2",
+  "Shivakumar et al.",
+  "chloro"
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "ATB Molid": 918,
+ "Formula": "C9H18O",
+ "InChI": "InChI=1S/C9H18O/c1-3-4-5-6-7-8-9(2)10/h3-8H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -10.42,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -10.42,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -10.41,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -8.559684947098608,
+   "error": 1.2811582871579839,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Boulanger et al.",
+  "ketone",
+  "Gerber",
+  "Dodda et al."
+ ]
+}

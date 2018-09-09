@@ -1,0 +1,47 @@
+{
+ "ATB Molid": 16415,
+ "Formula": "C4H12Si",
+ "InChI": "InChI=1S/C4H12Si/c1-5(2,3)4/h1-4H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 12.72,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 12.72,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": 8.213729585903632,
+   "error": 0.8027241334601901,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -12.22,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -12.22,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -16.074702947224907,
+   "error": 1.1156697716492516,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "silane"
+ ]
+}

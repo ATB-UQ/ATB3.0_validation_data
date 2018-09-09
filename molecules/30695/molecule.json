@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 30695,
+ "Formula": "CH4O2",
+ "InChI": "InChI=1S/CH4O2/c1-3-2/h2H,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -22.09,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -22.09,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -14.142343723774735,
+   "error": 0.864152044097521,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "peroxide"
+ ]
+}

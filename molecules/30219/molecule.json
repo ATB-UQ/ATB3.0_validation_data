@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 30219,
+ "Formula": "C10H20O",
+ "InChI": "InChI=1S/C10H20O/c1-3-4-5-6-7-8-9-10(2)11/h3-9H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -9.79,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -9.79,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -7.62474829142408,
+   "error": 1.477253251495554,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "ketone",
+  "Boulanger et al.",
+  "Mobley et al."
+ ]
+}

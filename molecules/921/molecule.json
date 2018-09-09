@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 921,
+ "Formula": "C10H14O",
+ "InChI": "InChI=1S/C10H14O/c11-10-8-2-6-1-7(4-8)5-9(10)3-6/h6-9H,1-5H2/t6-,7+,8-,9+",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -18.66,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -18.66,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -20.525997592661753,
+   "error": 1.3366626279542433,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "ketone",
+  "Gerber"
+ ]
+}

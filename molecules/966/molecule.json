@@ -1,0 +1,39 @@
+{
+ "ATB Molid": 966,
+ "Formula": "CH5N",
+ "InChI": "InChI=1S/CH5N/c1-2/h2H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -19.04,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -19.04,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -19.09,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -16.81797992580427,
+   "error": 1.1608529553660705,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "amine I",
+  "Mobley et al.",
+  "Boulanger et al.",
+  "Gerber",
+  "Dodda et al.",
+  "Shivakumar et al.",
+  "Marenich et al."
+ ]
+}

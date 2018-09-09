@@ -1,0 +1,37 @@
+{
+ "ATB Molid": 1928,
+ "Formula": "C8H6Cl2O3",
+ "InChI": "InChI=1S/C8H6Cl2O3/c1-13-7-5(10)3-2-4(9)6(7)8(11)12/h2-3H,1H3,(H,11,12)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -41.42,
+   "mean_uncertainty": 4.18,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -41.42,
+     "error": 4.18,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -41.25,
+     "error": 8.08,
+     "doi": "10.1021/jp806724u"
+    }
+   ]
+  },
+  "TI": {
+   "value": -43.69690797979319,
+   "error": 1.214765994349352,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "SAMPL1",
+  "carboxylic acid",
+  "chlorophenyl",
+  "Mobley et al."
+ ]
+}

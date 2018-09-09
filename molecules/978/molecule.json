@@ -1,0 +1,28 @@
+{
+ "ATB Molid": 978,
+ "Formula": "C6H13N",
+ "InChI": "InChI=1S/C6H13N/c1-2-4-6-7-5-3-1/h7H,1-6H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -20.54,
+   "mean_uncertainty": 0.0,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -20.54,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -16.72824889841117,
+   "error": 0.6476322513589999,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Gerber",
+  "amine II"
+ ]
+}

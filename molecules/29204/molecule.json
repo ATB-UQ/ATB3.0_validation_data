@@ -1,0 +1,31 @@
+{
+ "ATB Molid": 29204,
+ "Formula": "C4H3IN2O2",
+ "InChI": "InChI=1S/C4H3IN2O2/c5-2-1-6-4(9)7-3(2)8/h1H,(H2,6,7,8,9)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -78.32,
+   "mean_uncertainty": 2.68,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -78.32,
+     "error": 2.68,
+     "doi": "10.1007/s10822-010-9350-8"
+    }
+   ]
+  },
+  "TI": {
+   "value": -63.056966701165436,
+   "error": 1.2664750211507385,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "urea",
+  "amide",
+  "iodo",
+  "Marenich et al.",
+  "Mobley et al."
+ ]
+}

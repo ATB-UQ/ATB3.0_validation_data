@@ -1,0 +1,38 @@
+{
+ "ATB Molid": 1850,
+ "Formula": "C4H3ClN2O2",
+ "InChI": "InChI=1S/C4H3ClN2O2/c5-2-1-6-4(9)7-3(2)8/h1H,(H2,6,7,8,9)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -74.22,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -74.22,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -74.22,
+     "error": 3.26,
+     "doi": "10.1007/s10822-010-9350-8"
+    }
+   ]
+  },
+  "TI": {
+   "value": -56.32747583718196,
+   "error": 1.344596199408609,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "SAMPL2",
+  "chloro",
+  "Mobley et al.",
+  "urea",
+  "Marenich et al.",
+  "amide"
+ ]
+}

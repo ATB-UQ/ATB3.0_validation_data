@@ -1,0 +1,64 @@
+{
+ "ATB Molid": 991,
+ "Formula": "C6H7N",
+ "InChI": "InChI=1S/C6H8N/c1-6-3-2-4-7-5-6/h2-6H,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -19.96,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -19.96,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -19.97,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -18.108143674023182,
+   "error": 0.9205736764018322,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -21.025,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -21.51,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -20.54,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -22.093237491905732,
+   "error": 0.6741637929169262,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "Shivakumar et al.",
+  "aromatic amine II",
+  "Dodda et al.",
+  "Gerber",
+  "Boulanger et al.",
+  "Mobley et al."
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "ATB Molid": 26266,
+ "Formula": "C6H14S",
+ "InChI": "InChI=1S/C6H14S/c1-3-5-7-6-4-2/h3-6H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -5.36,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -5.36,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -10.054096446272078,
+   "error": 1.256018677234968,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -23.47,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -23.47,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -24.683322394775253,
+   "error": 1.4833187182408214,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Shivakumar et al.",
+  "Dodda et al.",
+  "Marenich et al.",
+  "Boulanger et al.",
+  "thioether",
+  "Mobley et al."
+ ]
+}

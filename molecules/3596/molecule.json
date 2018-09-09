@@ -1,0 +1,56 @@
+{
+ "ATB Molid": 3596,
+ "Formula": "C7H9N",
+ "InChI": "InChI=1S/C7H9N/c1-8-7-5-3-2-4-6-7/h2-6,8H,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -19.62,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -19.62,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -25.142446882446375,
+   "error": 0.8862761671628268,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -26.189999999999998,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -26.48,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -25.9,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -27.407066790128866,
+   "error": 1.1380767451626246,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Boulanger et al.",
+  "amine II",
+  "Dodda et al.",
+  "Mobley et al.",
+  "Marenich et al."
+ ]
+}

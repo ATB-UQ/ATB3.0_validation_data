@@ -1,0 +1,36 @@
+{
+ "ATB Molid": 1934,
+ "Formula": "C9H14O",
+ "InChI": "InChI=1S/C9H14O/c1-7-4-8(10)6-9(2,3)5-7/h4H,5-6H2,1-3H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -21.76,
+   "mean_uncertainty": 4.18,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -21.76,
+     "error": 4.18,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -21.67,
+     "error": 5.73,
+     "doi": "10.1021/jp806724u"
+    }
+   ]
+  },
+  "TI": {
+   "value": -22.411561042085975,
+   "error": 1.2709993526741417,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "SAMPL1",
+  "Marenich et al.",
+  "Mobley et al.",
+  "ketone"
+ ]
+}

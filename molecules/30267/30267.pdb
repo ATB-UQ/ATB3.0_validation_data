@@ -1,0 +1,39 @@
+HEADER    UNCLASSIFIED                            16-Feb-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE LIG                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-02-05 15:47:32
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   O1 PESX    0       3.248  -0.499   0.014  1.00  0.00           O
+HETATM    2   C7 PESX    0       2.429   0.410  -0.006  1.00  0.00           C
+HETATM    3   H5 PESX    0       2.767   1.467  -0.026  1.00  0.00           H
+HETATM    4   C5 PESX    0       0.968   0.230  -0.006  1.00  0.00           C
+HETATM    5   C2 PESX    0       0.396  -1.055  -0.008  1.00  0.00           C
+HETATM    6   H2 PESX    0       1.052  -1.921  -0.011  1.00  0.00           H
+HETATM    7   C4 PESX    0      -0.983  -1.203  -0.005  1.00  0.00           C
+HETATM    8   H4 PESX    0      -1.419  -2.200  -0.005  1.00  0.00           H
+HETATM    9   C6 PESX    0      -1.833  -0.079   0.002  1.00  0.00           C
+HETATM   10   C8 PESX    0      -3.332  -0.260   0.006  1.00  0.00           C
+HETATM   11   H8 PESX    0      -3.672  -0.746  -0.917  1.00  0.00           H
+HETATM   12   H7 PESX    0      -3.853   0.698   0.095  1.00  0.00           H
+HETATM   13   H6 PESX    0      -3.648  -0.899   0.839  1.00  0.00           H
+HETATM   14   C3 PESX    0      -1.255   1.198   0.003  1.00  0.00           C
+HETATM   15   H3 PESX    0      -1.896   2.076   0.008  1.00  0.00           H
+HETATM   16   C1 PESX    0       0.130   1.354  -0.002  1.00  0.00           C
+HETATM   17   H1 PESX    0       0.567   2.351  -0.003  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3    4
+CONECT    3    2
+CONECT    4    2    5   16
+CONECT    5    4    6    7
+CONECT    6    5
+CONECT    7    5    8    9
+CONECT    8    7
+CONECT    9    7   10   14
+CONECT   10    9   11   12   13
+CONECT   11   10
+CONECT   12   10
+CONECT   13   10
+CONECT   14    9   15   16
+CONECT   15   14
+CONECT   16    4   14   17
+CONECT   17   16
+END

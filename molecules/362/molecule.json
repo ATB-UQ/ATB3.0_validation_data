@@ -1,0 +1,36 @@
+{
+ "ATB Molid": 362,
+ "Formula": "C4H6N2",
+ "InChI": "InChI=1S/C4H7N2/c1-6-3-2-5-4-6/h2,4H,3H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -35.19,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -35.19,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -35.2,
+     "error": null,
+     "doi": "10.1021/ja00236a026"
+    }
+   ]
+  },
+  "TI": {
+   "value": -46.06236695065983,
+   "error": 1.3000718021112765,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Boulanger et al.",
+  "imidazole",
+  "Gerber"
+ ]
+}

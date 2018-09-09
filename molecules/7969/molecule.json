@@ -1,0 +1,36 @@
+{
+ "ATB Molid": 7969,
+ "Formula": "C9H12",
+ "InChI": "InChI=1S/C9H12/c1-3-9-7-5-4-6-8(9)2/h4-7H,3H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -3.6,
+   "mean_uncertainty": 0.4,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -3.6,
+     "error": 0.4,
+     "doi": "10.1007/s10822-014-9738-y"
+    },
+    {
+     "solvent_name": "water",
+     "value": -4.35,
+     "error": null,
+     "doi": "10.1021/acs.jpcb.7b00272"
+    }
+   ]
+  },
+  "TI": {
+   "value": -1.9244515986134585,
+   "error": 0.529942352732953,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Boulanger et al.",
+  "Mobley et al.",
+  "SAMPL4"
+ ]
+}

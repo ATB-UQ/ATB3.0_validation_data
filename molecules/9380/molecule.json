@@ -1,0 +1,50 @@
+{
+ "ATB Molid": 9380,
+ "Formula": "C3H7NO",
+ "InChI": "InChI=1S/C3H7NO/c1-4(2)3-5/h3H,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -32.68,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -32.68,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -40.82597673773985,
+   "error": 0.47535192728854037,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -15.98,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -15.98,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -24.19223872150842,
+   "error": 1.1720373525720607,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "Dodda et al.",
+  "amide",
+  "Boulanger et al.",
+  "Mobley et al."
+ ]
+}

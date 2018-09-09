@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 19060,
+ "Formula": "C9H8Cl3NO2S",
+ "InChI": "InChI=1S/C9H8Cl3NO2S/c10-9(11,12)16-13-7(14)5-3-1-2-4-6(5)8(13)15/h1-2,5-6H,3-4H2/t5-,6+",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -37.66,
+   "mean_uncertainty": 4.18,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -37.66,
+     "error": 4.18,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -39.346600870689144,
+   "error": 1.3570140093226206,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "amide",
+  "sulfanyl",
+  "Marenich et al.",
+  "chloride"
+ ]
+}

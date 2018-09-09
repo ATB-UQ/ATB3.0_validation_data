@@ -1,0 +1,56 @@
+{
+ "ATB Molid": 125,
+ "Formula": "C4H3BrN2O2",
+ "InChI": "InChI=1S/C4H3BrN2O2/c5-2-1-6-4(9)7-3(2)8/h1H,(H2,6,7,8,9)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -76.02,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -76.02,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -76.02,
+     "error": 2.3,
+     "doi": "10.1007/s10822-010-9350-8"
+    }
+   ]
+  },
+  "TI": {
+   "value": -64.60227218065323,
+   "error": 1.3692439554160172,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -53.26,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "heptane",
+     "value": -53.26,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -35.75211873620769,
+   "error": 1.2704581565142923,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "urea",
+  "SAMPL2",
+  "bromo",
+  "Marenich et al.",
+  "Mobley et al."
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "ATB Molid": 21877,
+ "Formula": "C6H14O",
+ "InChI": "InChI=1S/C6H14O/c1-2-3-4-5-6-7/h7H,2-6H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -18.41,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -18.41,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -18.26,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    },
+    {
+     "solvent_name": "water",
+     "value": -18.24,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -19.962203606098747,
+   "error": 1.0831736106211205,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -21.51,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "hexane",
+     "value": -21.51,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -21.061417527681364,
+   "error": 1.422337159191719,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Gerber",
+  "Shivakumar et al.",
+  "Boulanger et al.",
+  "Dodda et al.",
+  "Mobley et al.",
+  "alcohol",
+  "Marenich et al."
+ ]
+}

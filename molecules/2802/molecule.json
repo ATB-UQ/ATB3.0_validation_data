@@ -1,0 +1,75 @@
+{
+ "ATB Molid": 2802,
+ "Formula": "C2H3Cl3",
+ "InChI": "InChI=1S/C2H3Cl3/c1-2(3,4)5/h1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -1.05,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -1.05,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -1.05,
+     "error": null,
+     "doi": "10.1021/ct900587b"
+    },
+    {
+     "solvent_name": "water",
+     "value": -0.79,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -3.7163528681266715,
+   "error": 0.4365091664007563,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -16.22,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -17.07,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -15.61,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "undecane",
+     "value": -15.98,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -20.819568354536372,
+   "error": 1.4198594140204848,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Marenich et al.",
+  "Boulanger et al.",
+  "Mobley et al.",
+  "Dodda et al.",
+  "chloro",
+  "Shivakumar et al."
+ ]
+}

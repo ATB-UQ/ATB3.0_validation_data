@@ -1,0 +1,45 @@
+HEADER    UNCLASSIFIED                            06-Feb-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE UNK                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-02-05 15:47:32
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   O1 G180    0      -1.228   1.329   0.013  1.00  0.00           O
+HETATM    2   C5 G180    0      -1.123   0.117   0.004  1.00  0.00           C
+HETATM    3   O2 G180    0      -2.185  -0.716  -0.006  1.00  0.00           O
+HETATM    4   C6 G180    0      -3.481  -0.086  -0.005  1.00  0.00           C
+HETATM    5  H12 G180    0      -3.603   0.537  -0.895  1.00  0.00           H
+HETATM    6  H11 G180    0      -3.605   0.532   0.889  1.00  0.00           H
+HETATM    7  H10 G180    0      -4.204  -0.902  -0.008  1.00  0.00           H
+HETATM    8   C4 G180    0       0.178  -0.660   0.004  1.00  0.00           C
+HETATM    9   H9 G180    0       0.176  -1.308   0.893  1.00  0.00           H
+HETATM   10   H8 G180    0       0.160  -1.343  -0.856  1.00  0.00           H
+HETATM   11   C3 G180    0       1.423   0.229  -0.022  1.00  0.00           C
+HETATM   12   H7 G180    0       1.403   0.853  -0.925  1.00  0.00           H
+HETATM   13   H6 G180    0       1.390   0.922   0.829  1.00  0.00           H
+HETATM   14   C2 G180    0       2.725  -0.581   0.019  1.00  0.00           C
+HETATM   15   H5 G180    0       2.736  -1.205   0.925  1.00  0.00           H
+HETATM   16   H4 G180    0       2.749  -1.277  -0.832  1.00  0.00           H
+HETATM   17   C1 G180    0       3.979   0.300  -0.008  1.00  0.00           C
+HETATM   18   H3 G180    0       3.998   0.987   0.848  1.00  0.00           H
+HETATM   19   H2 G180    0       4.018   0.906  -0.922  1.00  0.00           H
+HETATM   20   H1 G180    0       4.891  -0.307   0.031  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3    8
+CONECT    3    2    4
+CONECT    4    3    5    6    7
+CONECT    5    4
+CONECT    6    4
+CONECT    7    4
+CONECT    8    2    9   10   11
+CONECT    9    8
+CONECT   10    8
+CONECT   11    8   12   13   14
+CONECT   12   11
+CONECT   13   11
+CONECT   14   11   15   16   17
+CONECT   15   14
+CONECT   16   14
+CONECT   17   14   18   19   20
+CONECT   18   17
+CONECT   19   17
+CONECT   20   17
+END

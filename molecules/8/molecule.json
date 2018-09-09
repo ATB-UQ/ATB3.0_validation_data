@@ -1,0 +1,63 @@
+{
+ "ATB Molid": 8,
+ "Formula": "C4H10",
+ "InChI": "InChI=1S/C4H10/c1-4(2)3/h4H,1-3H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 9.62,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 9.62,
+     "error": 0.84,
+     "doi": "10.1039/P29900000291"
+    },
+    {
+     "solvent_name": "water",
+     "value": 9.7,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": 7.770887148314437,
+   "error": 1.4743712670165214,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -9.465,
+   "mean_uncertainty": 1.5530695412633657,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -10.9,
+     "error": null,
+     "doi": "10.1002/jcc.10052"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -8.03,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -10.78845226920739,
+   "error": 1.4270638265603588,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Marenich et al.",
+  "Dodda et al.",
+  "Boulanger et al.",
+  "Shivakumar et al.",
+  "Gerber"
+ ]
+}

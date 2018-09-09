@@ -1,0 +1,40 @@
+{
+ "ATB Molid": 1043,
+ "Formula": "C4H9NO",
+ "InChI": "InChI=1S/C4H9NO/c1-3-6-4-2-5-1/h5H,1-4H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -30.0,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -30.0,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -30.02,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -33.31888498066595,
+   "error": 1.0167742355023301,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Gerber",
+  "Boulanger et al.",
+  "amine II",
+  "ether",
+  "Marenich et al.",
+  "Shivakumar et al.",
+  "Mobley et al."
+ ]
+}

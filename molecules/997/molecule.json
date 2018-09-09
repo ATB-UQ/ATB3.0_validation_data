@@ -1,0 +1,58 @@
+{
+ "ATB Molid": 997,
+ "Formula": "C7H9N",
+ "InChI": "InChI=1S/C7H10N/c1-6-3-4-8-7(2)5-6/h3-4H,5H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -20.33,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -20.33,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -20.35,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -17.13093167026003,
+   "error": 1.018627017780981,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -23.1,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -23.1,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -25.357640246651656,
+   "error": 0.6029482425833398,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "aromatic amine II",
+  "Shivakumar et al.",
+  "Gerber",
+  "Mobley et al.",
+  "Boulanger et al.",
+  "Marenich et al."
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 4054,
+ "Formula": "C6H13Br",
+ "InChI": "InChI=1S/C6H13Br/c1-2-3-4-5-6-7/h2-6H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 0.75,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 0.75,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -3.4167910335772884,
+   "error": 1.069876611403784,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Mobley et al.",
+  "Boulanger et al.",
+  "bromo"
+ ]
+}

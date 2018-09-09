@@ -1,0 +1,70 @@
+{
+ "ATB Molid": 102066,
+ "Formula": "C2H5NO",
+ "InChI": "InChI=1/C2H5NO/c1-2(3)4/h1H3,(H2,3,4)/f/h3H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -40.63,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -40.63,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -40.63,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -38.40491025316931,
+   "error": 1.358118806092749,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -12.816666666666668,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "cyclohexane",
+     "value": -12.6,
+     "error": null,
+     "doi": "10.1002/jcc.10052"
+    },
+    {
+     "solvent_name": "hexadecane",
+     "value": -13.93,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "decane",
+     "value": -11.92,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -11.220883900139654,
+   "error": 1.200462694828718,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "amide",
+  "Shivakumar et al.",
+  "Gerber",
+  "Dodda et al.",
+  "Marenich et al.",
+  "Boulanger et al."
+ ]
+}

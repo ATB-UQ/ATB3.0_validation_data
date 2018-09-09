@@ -1,0 +1,35 @@
+HEADER    NONAME 29-Sep-09                                              NONE   1
+TITLE                                                                   NONE   2
+AUTHOR    Apache                                                        NONE   3
+REVDAT   1  29-Sep-09     0                                             NONE   4
+COMPND    UNNAMED
+HETATM    1   C1 UNK     0       2.408  -0.002   0.001  1.00  0.00           C  
+HETATM    2   C2 UNK     0       0.901   0.000   0.001  1.00  0.00           C  
+HETATM    3   C3 UNK     0       0.219   1.202   0.000  1.00  0.00           C  
+HETATM    4   C4 UNK     0      -1.168   1.192  -0.001  1.00  0.00           C  
+HETATM    5   C5 UNK     0      -1.819  -0.032   0.001  1.00  0.00           C  
+HETATM    6   C6 UNK     0      -1.070  -1.193   0.002  1.00  0.00           C  
+HETATM    7   N1 UNK     0       0.248  -1.146  -0.003  1.00  0.00           N  
+HETATM    8   H1 UNK     0       2.771  -0.001   1.029  1.00  0.00           H  
+HETATM    9   H2 UNK     0       2.770  -0.893  -0.512  1.00  0.00           H  
+HETATM   10   H3 UNK     0       2.772   0.887  -0.514  1.00  0.00           H  
+HETATM   11   H4 UNK     0       0.759   2.137  -0.001  1.00  0.00           H  
+HETATM   12   H5 UNK     0      -1.727   2.116  -0.001  1.00  0.00           H  
+HETATM   13   H6 UNK     0      -2.898  -0.077   0.001  1.00  0.00           H  
+HETATM   14   H7 UNK     0      -1.570  -2.151   0.003  1.00  0.00           H  
+CONECT    1    2    8    9   10                                       
+CONECT    2    1    7    3                                            
+CONECT    3    2    4   11                                            
+CONECT    4    3    5   12                                            
+CONECT    5    4    6   13                                            
+CONECT    6    5    7   14                                            
+CONECT    7    2    6                                                 
+CONECT    8    1                                                      
+CONECT    9    1                                                      
+CONECT   10    1                                                      
+CONECT   11    3                                                      
+CONECT   12    4                                                      
+CONECT   13    5                                                      
+CONECT   14    6                                                      
+MASTER        0    0    0    0    0    0    0    0   14    0   14    0
+END

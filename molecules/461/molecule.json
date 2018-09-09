@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 461,
+ "Formula": "C6H12O6",
+ "InChI": "InChI=1S/C6H12O6/c7-1-2-3(8)4(9)5(10)6(11)12-2/h2-11H,1H2/t2-,3-,4+,5-,6-/m1/s1",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -106.57,
+   "mean_uncertainty": 0.92,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -106.57,
+     "error": 0.92,
+     "doi": "10.1007/s10822-010-9350-8"
+    }
+   ]
+  },
+  "TI": {
+   "value": -91.37732626925417,
+   "error": 0.8994551456358717,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "alcohol",
+  "ether",
+  "Mobley et al.",
+  "hemiketal"
+ ]
+}

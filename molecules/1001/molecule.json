@@ -1,0 +1,63 @@
+{
+ "ATB Molid": 1001,
+ "Formula": "C7H9N",
+ "InChI": "InChI=1S/C7H10N/c1-6-3-7(2)5-8-4-6/h3-6H,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -20.25,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -20.25,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    },
+    {
+     "solvent_name": "water",
+     "value": -20.25,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -20.26,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -18.486104010389752,
+   "error": 0.8283394671903568,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -10.54,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -10.54,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -25.12352095458864,
+   "error": 0.7160942477322796,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Boulanger et al.",
+  "Gerber",
+  "aromatic amine II",
+  "Marenich et al.",
+  "Mobley et al."
+ ]
+}

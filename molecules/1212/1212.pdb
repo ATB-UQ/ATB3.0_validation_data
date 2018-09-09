@@ -1,0 +1,63 @@
+HEADER    UNCLASSIFIED                            06-Feb-18
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE UNK                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2018-02-05 15:47:32
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   O6 M494    0       0.039  -2.264  -1.123  1.00  0.00           O
+HETATM    2   C8 M494    0       0.030  -2.118   0.082  1.00  0.00           C
+HETATM    3   C9 M494    0       0.023  -3.232   1.099  1.00  0.00           C
+HETATM    4  H14 M494    0       0.836  -3.094   1.819  1.00  0.00           H
+HETATM    5  H13 M494    0       0.130  -4.192   0.593  1.00  0.00           H
+HETATM    6  H12 M494    0      -0.920  -3.214   1.657  1.00  0.00           H
+HETATM    7   O5 M494    0       0.011  -0.913   0.704  1.00  0.00           O
+HETATM    8   C4 M494    0      -0.009   0.287  -0.102  1.00  0.00           C
+HETATM    9   H6 M494    0      -0.023   0.002  -1.156  1.00  0.00           H
+HETATM   10   C5 M494    0       1.247   1.086   0.211  1.00  0.00           C
+HETATM   11   H8 M494    0       1.351   1.254   1.288  1.00  0.00           H
+HETATM   12   H7 M494    0       1.228   2.058  -0.291  1.00  0.00           H
+HETATM   13   O3 M494    0       2.365   0.314  -0.265  1.00  0.00           O
+HETATM   14   C6 M494    0       3.587   0.870  -0.101  1.00  0.00           C
+HETATM   15   C7 M494    0       4.673  -0.046  -0.603  1.00  0.00           C
+HETATM   16  H11 M494    0       4.423  -0.431  -1.596  1.00  0.00           H
+HETATM   17  H10 M494    0       4.768  -0.905   0.072  1.00  0.00           H
+HETATM   18   H9 M494    0       5.621   0.493  -0.635  1.00  0.00           H
+HETATM   19   O4 M494    0       3.754   1.964   0.401  1.00  0.00           O
+HETATM   20   C3 M494    0      -1.268   1.066   0.247  1.00  0.00           C
+HETATM   21   H5 M494    0      -1.346   1.234   1.326  1.00  0.00           H
+HETATM   22   H4 M494    0      -1.280   2.036  -0.258  1.00  0.00           H
+HETATM   23   O2 M494    0      -2.386   0.272  -0.197  1.00  0.00           O
+HETATM   24   C2 M494    0      -3.604   0.850  -0.103  1.00  0.00           C
+HETATM   25   O1 M494    0      -3.773   1.976   0.324  1.00  0.00           O
+HETATM   26   C1 M494    0      -4.686  -0.083  -0.583  1.00  0.00           C
+HETATM   27   H3 M494    0      -4.741  -0.958   0.074  1.00  0.00           H
+HETATM   28   H2 M494    0      -4.457  -0.441  -1.591  1.00  0.00           H
+HETATM   29   H1 M494    0      -5.645   0.437  -0.581  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3    7
+CONECT    3    2    4    5    6
+CONECT    4    3
+CONECT    5    3
+CONECT    6    3
+CONECT    7    2    8
+CONECT    8    7    9   10   20
+CONECT    9    8
+CONECT   10    8   11   12   13
+CONECT   11   10
+CONECT   12   10
+CONECT   13   10   14
+CONECT   14   13   15   19
+CONECT   15   14   16   17   18
+CONECT   16   15
+CONECT   17   15
+CONECT   18   15
+CONECT   19   14
+CONECT   20    8   21   22   23
+CONECT   21   20
+CONECT   22   20
+CONECT   23   20   24
+CONECT   24   23   25   26
+CONECT   25   24
+CONECT   26   24   27   28   29
+CONECT   27   26
+CONECT   28   26
+CONECT   29   26
+END

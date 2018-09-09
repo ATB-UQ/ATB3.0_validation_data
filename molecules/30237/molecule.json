@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 30237,
+ "Formula": "C5H8O2",
+ "InChI": "InChI=1S/C5H8O2/c1-7-5(6)4-2-3-4/h4H,2-3H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -17.15,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -17.15,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -15.539945770118283,
+   "error": 0.907250743815474,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "ester",
+  "Dodda et al.",
+  "cyclopropane",
+  "Mobley et al."
+ ]
+}

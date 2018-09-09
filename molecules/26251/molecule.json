@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 26251,
+ "Formula": "C5H10",
+ "InChI": "InChI=1S/C5H10/c1-3-5-4-2/h3,5H,4H2,1-2H3/b5-3-",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": 5.48,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": 5.48,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": 6.6787941153329236,
+   "error": 1.4676217674644836,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Dodda et al.",
+  "Boulanger et al.",
+  "Shivakumar et al.",
+  "Mobley et al."
+ ]
+}

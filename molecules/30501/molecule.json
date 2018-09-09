@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 30501,
+ "Formula": "C9H12N2O",
+ "InChI": "InChI=1S/C9H12N2O/c1-11(2)9(12)10-8-6-4-3-5-7-8/h3-7H,1-2H3,(H,10,12)",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -38.2,
+   "mean_uncertainty": 8.08,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -38.2,
+     "error": 8.08,
+     "doi": "10.1021/jp806724u"
+    }
+   ]
+  },
+  "TI": {
+   "value": -52.10481477548959,
+   "error": 1.1737265155294139,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Marenich et al.",
+  "urea",
+  "SAMPL1"
+ ]
+}

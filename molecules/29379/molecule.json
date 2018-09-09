@@ -1,0 +1,47 @@
+{
+ "ATB Molid": 29379,
+ "Formula": "C9H21O4P",
+ "InChI": "InChI=1S/C9H21O4P/c1-4-7-11-14(10,12-8-5-2)13-9-6-3/h4-9H2,1-3H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -25.52,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -25.52,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -41.50628348496094,
+   "error": 1.1652685179253073,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -30.29,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "hexane",
+     "value": -30.29,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -51.070489502400804,
+   "error": 0.9391670827698964,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "phosphate",
+  "Marenich et al."
+ ]
+}

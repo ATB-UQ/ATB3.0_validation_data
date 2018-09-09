@@ -1,0 +1,56 @@
+{
+ "ATB Molid": 30424,
+ "Formula": "C2H6O2",
+ "InChI": "InChI=1S/C2H6O2/c3-1-2-4/h3-4H,1-2H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -38.91,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -38.91,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -32.03,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -43.851095002787496,
+   "error": 0.462508549123684,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -11.76,
+   "mean_uncertainty": 1.1,
+   "solvents": [
+    {
+     "solvent_name": "hexadecane",
+     "value": -11.76,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -12.407023139125327,
+   "error": 0.9659681553479507,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Marenich et al.",
+  "alcohol",
+  "Shivakumar et al.",
+  "Gerber"
+ ]
+}

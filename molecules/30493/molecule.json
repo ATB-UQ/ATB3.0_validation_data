@@ -1,0 +1,58 @@
+{
+ "ATB Molid": 30493,
+ "Formula": "C3H9N",
+ "InChI": "InChI=1S/C3H9N/c1-2-3-4/h2-4H2,1H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -18.37,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -18.37,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -18.37,
+     "error": null,
+     "doi": "10.1007/bf00646936"
+    }
+   ]
+  },
+  "TI": {
+   "value": -14.704658163353344,
+   "error": 0.8127769945356702,
+   "doi": null
+  }
+ },
+ "apolar_solvation_free_energy": {
+  "experimental": {
+   "mean_value": -13.1,
+   "mean_uncertainty": 0.84,
+   "solvents": [
+    {
+     "solvent_name": "hexane",
+     "value": -13.1,
+     "error": 0.84,
+     "doi": "http://comp.chem.umn.edu/mnsol/"
+    }
+   ]
+  },
+  "TI": {
+   "value": -10.233044126087934,
+   "error": 1.3320066068838359,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Shivakumar et al.",
+  "Gerber",
+  "Marenich et al.",
+  "Mobley et al.",
+  "amine I",
+  "Dodda et al.",
+  "Boulanger et al."
+ ]
+}

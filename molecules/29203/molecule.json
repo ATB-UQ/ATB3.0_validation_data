@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 29203,
+ "Formula": "C6H5IO",
+ "InChI": "InChI=1S/C6H5IO/c7-5-3-1-2-4-6(5)8/h1-4,8H",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -25.94,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -25.94,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -22.243423332664438,
+   "error": 1.0400635144475365,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "phenol",
+  "Dodda et al.",
+  "iodophenyl"
+ ]
+}

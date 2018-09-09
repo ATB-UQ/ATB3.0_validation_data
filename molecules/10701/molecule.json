@@ -1,0 +1,30 @@
+{
+ "ATB Molid": 10701,
+ "Formula": "C3H8O",
+ "InChI": "InChI=1S/C3H8O/c1-3-4-2/h3H2,1-2H3",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -8.79,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -8.79,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    }
+   ]
+  },
+  "TI": {
+   "value": -8.127716567613206,
+   "error": 1.398420245688983,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "Mobley et al.",
+  "Boulanger et al.",
+  "Dodda et al.",
+  "ether"
+ ]
+}

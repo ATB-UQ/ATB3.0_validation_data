@@ -1,0 +1,39 @@
+{
+ "ATB Molid": 26268,
+ "Formula": "C6H5NO3",
+ "InChI": "InChI=1S/C6H5NO3/c8-6-3-1-2-5(4-6)7(9)10/h1-4,8H",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -40.25,
+   "mean_uncertainty": 2.51,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -40.25,
+     "error": 2.51,
+     "doi": "10.1021/ct050097l"
+    },
+    {
+     "solvent_name": "water",
+     "value": -40.31,
+     "error": null,
+     "doi": "10.1021/ja00236a026"
+    }
+   ]
+  },
+  "TI": {
+   "value": -47.69644099296575,
+   "error": 1.2436277512020502,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "alcohol",
+  "Mobley et al.",
+  "Boulanger et al.",
+  "Gerber",
+  "Dodda et al.",
+  "nitro",
+  "Shivakumar et al."
+ ]
+}

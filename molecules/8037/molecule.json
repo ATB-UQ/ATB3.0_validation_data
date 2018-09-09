@@ -1,0 +1,29 @@
+{
+ "ATB Molid": 8037,
+ "Formula": "C10H10N2",
+ "InChI": "InChI=1S/C10H11N2/c1-2-4-10(5-3-1)8-12-7-6-11-9-12/h1-6,9H,7-8H2",
+ "hydration_free_energy": {
+  "experimental": {
+   "mean_value": -31.9,
+   "mean_uncertainty": 0.5,
+   "solvents": [
+    {
+     "solvent_name": "water",
+     "value": -31.9,
+     "error": 0.5,
+     "doi": "10.1007/s10822-014-9738-y"
+    }
+   ]
+  },
+  "TI": {
+   "value": -44.64750052388951,
+   "error": 1.1332376803173152,
+   "doi": null
+  }
+ },
+ "Tags": [
+  "imidazole",
+  "Mobley et al.",
+  "SAMPL4"
+ ]
+}
