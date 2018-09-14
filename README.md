@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/147292991.svg)](https://zenodo.org/badge/latestdoi/147292991)
+
 # ATB3.0 validation data
 Supplementary data for "The Automated Topology Builder Version 3.0 (ATB3.0):
 Prediction of Solvation Free Enthalpies in Water and Hexane."
@@ -10,3 +12,7 @@ Prediction of Solvation Free Enthalpies in Water and Hexane."
 - all_data.json: combined calculated and experimental data used in this work in a dictionary-based data structure.
 - experimental_data.csv: all experimental solvation data considered as part of this work.
 - TI_data.csv: all calculated solvation results.
+
+# Citation / Attribution
+
+To cite this work, please use the following [Zenodo DOI](https://zenodo.org/badge/latestdoi/147292991).
